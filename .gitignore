@@ -1,4 +1,5 @@
 venv/
-nikola/__pycache__/
-nikola/cache/
-nikola/output/
+.soit.db
+__pycache__/
+cache/
+output/
