@@ -10,7 +10,7 @@
 .. hidetitle: yes
 -->
 
-<h1><span style="font-style: italic;">Stop Building</span> your Digital Future on <span style="font-style: italic;">Legacy</span> Data Infrastructure</h1>
+<h1><span style="font-style: italic; color: #007bff">Stop Building</span> your Digital Future on <span style="font-style: italic; color: #007bff">Legacy</span> Data Infrastructure</h1>
 
 <br>
 <br>
