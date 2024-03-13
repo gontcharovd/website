@@ -9,6 +9,7 @@ cloudpickle==3.0.0
 docutils==0.20.1
 doit==0.36.0
 frozenlist==1.4.1
+ghp-import==2.1.0
 idna==3.6
 importlib_metadata==7.0.2
 lxml==5.1.0
