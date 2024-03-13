@@ -1,0 +1,4 @@
+Sitemap: https://gontcharov.eu/sitemapindex.xml
+
+User-Agent: *
+Host: gontcharov.eu
