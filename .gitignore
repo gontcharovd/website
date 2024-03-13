@@ -1,0 +1,4 @@
+venv/
+nikola/__pycache__/
+nikola/cache/
+nikola/output/
