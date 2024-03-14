@@ -283,7 +283,7 @@ I'm a **systems integrator** who helps **aluminium smelters** collect and organi
 
 <br>
 
-Over the last five years I have provided IT-services for the aluminium industry. Most recently, as an independent data engineer focusing on solving data infrastructure problems at aluminium smelters.
+Over the last five years I have provided IT-services for the aluminium industry. Most recently, as an independent systems integrator focusing on solving data infrastructure problems at aluminium smelters.
 
 Before that I was employed as a data engineer at the aluminium rolling and recycling company Novelis. There I was responsible for transporting process data from production machines to the cloud.
 
