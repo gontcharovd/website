@@ -15,23 +15,27 @@
 <br>
 <br>
 
-### Your Digital Projects Keep Running over Time and over Budget?
+## Your Digital Projects Keep Running over Time and over Budget?
 
 * You worry about **missing another deadline** because your team spends too much time getting data.
 * Your OT engineers are frustrated with the IT department’s **slow support**.
 * You're exhausted from meetings where vendors pitch their proprietary IIoT-platform with **unclear pricing**.
 
-### Imagine Having your Plant's Data at your Fingertips…
+<br>
+
+## Imagine Having your Plant's Data at your Fingertips…
 
 * Have **confidence** that your data is available at high quality in real time.
 * Have IT and OT **collaborate** on the same platform.
 * Completely own the only platform you will need at a **predictable cost**.
 
-### Adopt the Unified Namespace as your Single Source of Truth.
+<br>
+
+## Adopt the Unified Namespace as your Single Source of Truth.
 
 Unify all data in your business and provide a single access point for it. 
 
-#### Introducing the United Manufacturing Hub (UMH)
+### Introducing the United Manufacturing Hub (UMH)
 
 The first commercialized open-source implementation of a Unified Namespace.
 
@@ -39,7 +43,7 @@ The first commercialized open-source implementation of a Unified Namespace.
 2. **Achieve Adoption**: User-friendly interfaces for OT, IT and business personnel.
 3. **Get support**: Active community where 2500 users and system integrators help each other.
 
-#### Here’s How It Works:
+### Here’s How It Works:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -75,7 +79,7 @@ The first commercialized open-source implementation of a Unified Namespace.
   </li>
   <br>
   <li>
-    <strong>Configuring the Management Console</strong><br><br>Installing the Management Console provides IT with a convenient tool to monitor and administer the UMH deployment.
+    <strong>Configuring the Management Console</strong><br><br>Installing the Management Console provides IT with a tool to monitor and administer the UMH deployment.
   </li>
   <br>
   <li>
@@ -130,7 +134,7 @@ The first commercialized open-source implementation of a Unified Namespace.
 
 <br>
 
-### Don't Take My Word For it...
+## Don't Take My Word For it...
 
 Here's what other people have said:
 
@@ -160,7 +164,7 @@ Here's what other people have said:
 <body>
     <div class="testimonial-wrapper">
         <div class="testimonial-container">
-        <p class="testimonial-text">Denis worked at Trimet France in 2018 and has developped R shiny <strong>apps for our production needs</strong>. <br><br> We were relly impressed by his commitment, the speed and quality of his work."</p>
+        <p class="testimonial-text">Denis worked at Trimet France and has developed R shiny <strong>apps for our production needs</strong>. <br><br> We were really impressed by his commitment, the speed and quality of his work.</p>
         <p class="testimonial-author">- Olivier Granacher, Senior Process Engineer at TRIMET Aluminium</p>
         </div>
         <div class="testimonial-container">
@@ -168,7 +172,7 @@ Here's what other people have said:
         <p class="testimonial-author">- Cynthia Khan, Data Engineering Services Manager at Novelis</p>
         </div>
         <div class="testimonial-container">
-        <p class="testimonial-text">Denis did a great job building the <strong>data infrastructure for our IoT-related features</strong> at ForkOn. <br>He is highly focused, well organised and motivated. <br><br> He sets very high standards for his work, which always has lead to excellent quality results.</p>
+        <p class="testimonial-text">Denis did a great job building the <strong>data infrastructure for our IoT-related features</strong> at ForkOn. <br>He is highly focused, well<br> organised and motivated. <br><br> He sets very high standards for his work, which always has lead to excellent quality results.</p>
         <p class="testimonial-author">- Vlada Pototskaia, Head of Engineering at Froomle</p>
         </div>
     </div>
@@ -177,11 +181,11 @@ Here's what other people have said:
 
 <br>
 
-### Still Have Questions?
+## Still Have Questions?
 
 **Is open-source reliable?**
 
-The UMH is rooted in IT best-practices. Today, open-source is the standard in every other industry, from pharmaceuticals to telecommunications. 
+The UMH is rooted in IT best-practices. Today, open-source is the standard in every other industry, from pharma to telecommunications. 
 
 **What is the total price?**
 
@@ -201,9 +205,11 @@ When you choose for the UMH you’re choosing for freedom and independence. The 
 
 **Where can I find support after the engagement?**
 
-After the training, your IT personnel will have the capability to manage the UMH. Additionally, The United Manufacturing Hub offers an Enterprise License with guaranteed service level agreements. Moreover, I am available for hire as an advisory retainer to oversee the management of the UMH.
+After the training, your plant personnel will have the capability to manage the UMH. Free support is always available via the open UMH community on Discord. Additionally, The UMH offers an Enterprise License with guaranteed service level agreements. Moreover, I am available for hire as an advisory retainer to oversee the administration of the UMH.
 
-### My Availability is Limited
+<br>
+
+## My Availability is Limited
 
 Given the demanding nature of the engagement, I only take on three clients per year. **Secure your spot now**.
 
@@ -252,7 +258,7 @@ Given the demanding nature of the engagement, I only take on three clients per y
 
 <br>
 
-### Why Work With Me?
+## Why Work With Me?
 
 I'm a **systems integrator** who helps **aluminium smelters** collect and organize **data**.<br> Unlike general IT-professionals, I worked as a process engineer at an aluminium smelter.
 
@@ -285,7 +291,10 @@ I began my career as a process engineering intern at the aluminium smelter of TR
 
 I hold a degree in Materials Engineering from KU Leuven in Belgium and am based in Berlin, Germany.
 
-#### Contact
+### Contact
 
-📧 denis@gontcharov.eu <br>
-🌐 https://gontcharov.eu
+📧 [denis@gontcharov.eu](mailto:denis@gontcharov.eu){:target="_blank"} <br>
+🌐 [https://gontcharov.eu](https://gontcharov.eu){:target="_blank"} <br>
+👤 [https://www.linkedin.com/in/gontcharovd](https://www.linkedin.com/in/gontcharovd){:target="_blank"}
+
+***
