@@ -75,7 +75,7 @@ The first commercialized open-source implementation of a Unified Namespace.
   </li>
   <br>
   <li>
-    <strong>Building a dashboard showing the machine's OEE</strong><br><br>To demonstrate the effectiveness of the UMH to OT, an interactive dashboard displaying the Overall Equipment Effectiveness (OEE) for the respective machine.
+    <strong>Building the first operational dashboard</strong><br><br>The interactive dashboard shows the calculated Overall Equipment Effectiveness (OEE) for the given machine. The objective it to demonstrate tangible results of the UMH to OT.
   </li>
   <br>
   <li>
