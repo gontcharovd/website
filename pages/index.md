@@ -293,7 +293,7 @@ I hold a degree in Materials Engineering from KU Leuven in Belgium and am based 
 
 ### Contact
 
-📫 [Get my weekly newsletter](https://subscribe.gontcharov.eu/newsletter) <br>
+📫 [Get my weekly newsletter](https://subscribe.gontcharov.eu/newsletter){:target="_blank"} <br>
 📧 [denis@gontcharov.eu](mailto:denis@gontcharov.eu){:target="_blank"} <br>
 🌐 [https://gontcharov.eu](https://gontcharov.eu){:target="_blank"} <br>
 👤 [https://www.linkedin.com/in/gontcharovd](https://www.linkedin.com/in/gontcharovd){:target="_blank"}
