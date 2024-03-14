@@ -25,7 +25,7 @@ SITE_URL = "https://gontcharov.eu/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://gontcharov.eu/"
 BLOG_EMAIL = "denis@gontcharov.eu"
-BLOG_DESCRIPTION = "Denis is a systems integrator who helps aluminium smelters<br>collect and organize data. Unlike general IT-professionals,<br>I worked as a process engineer at an aluminium smelter."  # (translatable)
+BLOG_DESCRIPTION = "Denis is a systems integrator who helps aluminium smelters<br>collect and organize data. Unlike general IT-professionals,<br>Denis worked as a process engineer at an aluminium smelter."  # (translatable)
 
 # Nikola is multilingual!
 #
