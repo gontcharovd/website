@@ -31,7 +31,7 @@
 
 <br>
 
-## Adopt the Unified Namespace as the Single Source of Truth.
+## Adopt the Unified Namespace as the Single Source of Truth
 
 Unify all data in your business and provide a single access point for it. 
 
@@ -39,9 +39,9 @@ Unify all data in your business and provide a single access point for it.
 
 The first commercialized open-source implementation of a Unified Namespace.
 
-1. **Trust & Ownership**: Open-source IIoT platform developed in Germany and operating across 6 continents.
-2. **Achieve Adoption**: User-friendly interfaces for OT, IT and business personnel.
-3. **Get support**: Active community where 2500 users and system integrators help each other.
+1. **Trust & Ownership**: open-source IIoT-platform developed in Germany and operating across 6 continents.
+2. **Achieve Adoption**: user-friendly interfaces for OT, IT and business personnel.
+3. **Get support**: active community where 2500 users and system integrators help each other.
 
 ### Here’s How It Works:
 
@@ -67,7 +67,7 @@ The first commercialized open-source implementation of a Unified Namespace.
   </li>
   <br>
   <li>
-    <strong>UMH deployment on-premises</strong><br><br>UMH stack is configured and deployed at your plant. The majority of this work takes place remotely.
+    <strong>UMH deployment on-premises</strong><br><br>The UMH platform is configured and deployed at your plant. The majority of this work takes place remotely.
   </li>
   <br>
   <li>
@@ -75,7 +75,7 @@ The first commercialized open-source implementation of a Unified Namespace.
   </li>
   <br>
   <li>
-    <strong>Building the first operational dashboard</strong><br><br>The interactive dashboard shows the calculated Overall Equipment Effectiveness (OEE) for the given machine. The objective it to demonstrate tangible results of the UMH to OT.
+    <strong>Building the first operational dashboard</strong><br><br>The interactive dashboard shows the calculated Overall Equipment Effectiveness (OEE) for the given machine. The objective it to demonstrate tangible UMH results to both OT and management.
   </li>
   <br>
   <li>
@@ -283,11 +283,11 @@ I'm a **systems integrator** who helps **aluminium smelters** collect and organi
 
 <br>
 
-Over the last five years I have provided IT-services for the aluminium industry. Most recently, as an independent data engineer focusing on solving data infrastructure problems at aluminium smelters.
+Over the last five years I have provided IT-services for the aluminium industry. Currently, I work as an independent systems integrator implementing data infrastructure for aluminium smelters.
 
-Before that I was employed as a data engineer at the aluminium rolling and recycling company Novelis. There I was responsible for transporting process data from production machines to the cloud.
+Before that I was employed as a data engineer at the aluminium rolling and recycling company Novelis. There, I was responsible for transferring process data from rolling mills and cast house furnaces to the cloud.
 
-I began my career as a process engineering intern at the aluminium smelter of TRIMET at Saint-Jean-de-Maurienne in France. After my internship I was hired as a process engineer at their smelter in Essen, Germany where I developed control software for the electrolysis process.
+I began my career as a process engineer at the aluminium smelter of TRIMET at Saint-Jean-de-Maurienne in France. Later I was working as a process engineer at their smelter in Essen, Germany where I developed control software for the electrolysis process.
 
 I hold a degree in Materials Engineering from KU Leuven in Belgium and am based in Berlin, Germany.
 
