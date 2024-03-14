@@ -10,7 +10,7 @@
 .. hidetitle: yes
 -->
 
-<h1><span style="font-style: italic; color: #007bff">Stop Building</span> your Digital Future on <span style="font-style: italic; color: #007bff">Legacy</span> Data Infrastructure</h1>
+<h1><span style="font-style: italic; color: #007bff">Stop Building</span> Your Digital Future on <span style="font-style: italic; color: #007bff">Legacy</span> Data Infrastructure</h1>
 
 <br>
 <br>
@@ -23,7 +23,7 @@
 
 <br>
 
-## Imagine Having your Plant's Data at your Fingertips…
+## Imagine Having Your Plant's Data at Your Fingertips…
 
 * Have **confidence** that your data is available at high quality in real time.
 * Have IT and OT **collaborate** on the same platform.
@@ -31,7 +31,7 @@
 
 <br>
 
-## Adopt the Unified Namespace as your Single Source of Truth.
+## Adopt the Unified Namespace as the Single Source of Truth.
 
 Unify all data in your business and provide a single access point for it. 
 
@@ -293,6 +293,7 @@ I hold a degree in Materials Engineering from KU Leuven in Belgium and am based 
 
 ### Contact
 
+📫 [Get my weekly newsletter](https://subscribe.gontcharov.eu/newsletter) <br>
 📧 [denis@gontcharov.eu](mailto:denis@gontcharov.eu){:target="_blank"} <br>
 🌐 [https://gontcharov.eu](https://gontcharov.eu){:target="_blank"} <br>
 👤 [https://www.linkedin.com/in/gontcharovd](https://www.linkedin.com/in/gontcharovd){:target="_blank"}
