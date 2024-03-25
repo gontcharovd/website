@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Denis Gontcharov"  # (translatable)
-BLOG_TITLE = "The Unified Namespace"  # (translatable)
+BLOG_TITLE = "Aluminium Industry Digitalization"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://gontcharov.eu/"
@@ -25,7 +25,7 @@ SITE_URL = "https://gontcharov.eu/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://gontcharov.eu/"
 BLOG_EMAIL = "denis@gontcharov.eu"
-BLOG_DESCRIPTION = "Denis is a systems integrator who helps aluminium smelters<br>collect and organize data. Unlike general IT-professionals,<br>Denis worked as a process engineer at an aluminium smelter."  # (translatable)
+BLOG_DESCRIPTION = "Denis is a data consultant who helps aluminium manufacturers break down data silos. Unlike general IT-professionals, Denis worked in aluminium<br> production and recycling."  # (translatable)
 
 # Nikola is multilingual!
 #
