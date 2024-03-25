@@ -254,7 +254,7 @@ Given the demanding nature of the engagement, I only take on three clients per y
 
 ## Why Work With Me?
 
-I'm a **data consultant** who helps **aluminium manufacturers** break down data silos.<br> Unlike general IT-professionals, I worked as a process engineer at an aluminium smelter.
+Unlike general IT-professionals, I have years of industry experience in aluminium production and recycling.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -276,6 +276,8 @@ I'm a **data consultant** who helps **aluminium manufacturers** break down data 
 </html>
 
 <br>
+
+I'm a data consultant who helps aluminium manufacturers break down data silos. 
 
 Over the last five years I have provided IT-services for the aluminium industry. Currently, I work as an independent data consultant building better data infrastructure for aluminium manufacturers.
 
