@@ -19,7 +19,7 @@
 
 * You worry about **missing another deadline** because your team spends too much time getting data.
 * Your OT engineers are frustrated with the IT department’s **slow support**.
-* You're exhausted from meetings where vendors pitch their proprietary IIoT-platform with **unclear pricing**.
+* You're exhausted from meetings with software vendors who don't understand your business.
 
 <br>
 
@@ -27,21 +27,19 @@
 
 * Have **confidence** that your data is available at high quality in real time.
 * Have IT and OT **collaborate** on the same platform.
-* Completely own the only platform you will need at a **predictable cost**.
+* **Trust** an engineer who worked years for aluminium manufacturers like yourself.
 
 <br>
 
-## Adopt the Unified Namespace as the Single Source of Truth
+## Adopt the Unified Namespace (UNS) as the Single Source of Truth
 
 Unify all data in your business and provide a single access point for it. 
 
-### Introducing the United Manufacturing Hub (UMH)
+### Benefits
 
-The first commercialized open-source implementation of a Unified Namespace.
-
-1. **Trust & Ownership**: open-source IIoT-platform developed in Germany and operating across 6 continents.
-2. **Achieve Adoption**: user-friendly interfaces for OT, IT and business personnel.
-3. **Get support**: active community where 2500 users and system integrators help each other.
+* Real time insight in your **Overall Equipment Efficiency (OEE)**.
+* Know the cause and duration of **production downtime**.
+* No more point-to-point integrations: add new systems in **days instead of months**.
 
 ### Here’s How It Works:
 
@@ -50,7 +48,7 @@ The first commercialized open-source implementation of a Unified Namespace.
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>UMH Implementation Steps</title>
+<title>UNS Implementation Steps</title>
 </head>
 <body>
 <ol>
@@ -59,31 +57,31 @@ The first commercialized open-source implementation of a Unified Namespace.
   </li>
   <br>
   <li>
-    <strong>Technical call</strong><br><br>In this 60-minute call, we define which machines and systems will be integrated into the UMH initially. Together with IT and OT, we establish the technical requirements.
+    <strong>Technical call</strong><br><br>In this 60-minute call, we define which machines and systems will be integrated into the UNS initially. Together with IT and OT, we establish the technical requirements.
   </li>
   <br>
   <li>
-    <strong>On-site UMH workshop</strong><br><br>During a one-day on-site meeting, the UMH is introduced to both OT and IT. The objective is to build trust in-person and set clear expectations.
+    <strong>On-site UNS workshop</strong><br><br>During a one-day on-site meeting, the UNS is introduced to both OT and IT. The objective is to build trust in-person and set clear expectations.
   </li>
   <br>
   <li>
-    <strong>UMH deployment on-premises</strong><br><br>The UMH platform is configured and deployed at your plant. The majority of this work takes place remotely.
+    <strong>UNS deployment on-premises</strong><br><br>The UNS is configured and deployed at your plant. The majority of this work takes place remotely.
   </li>
   <br>
   <li>
-    <strong>Integrating one machine and the MES</strong><br><br>Once the UMH is installed, sensor data from one machine and the Manufacturing Execution System (MES) are integrated into the UMH.
+    <strong>Integrating one machine and the MES</strong><br><br>Once the UNS is installed, sensor data from one machine and the Manufacturing Execution System (MES) are integrated into the UNS.
   </li>
   <br>
   <li>
-    <strong>Building the first operational dashboard</strong><br><br>The interactive dashboard shows the calculated Overall Equipment Effectiveness (OEE) for the given machine. The objective it to demonstrate tangible UMH results to both OT and management.
+    <strong>Building the first operational dashboard</strong><br><br>The interactive dashboard shows the calculated Overall Equipment Effectiveness (OEE) for the given machine. The objective it to demonstrate tangible UNS results to both OT and management.
   </li>
   <br>
   <li>
-    <strong>Configuring the Management Console</strong><br><br>Installing the Management Console provides IT with a tool to monitor and administer the UMH deployment.
+    <strong>Configuring the Management Console</strong><br><br>Installing the Management Console provides IT with a tool to monitor and administer the UNS deployment.
   </li>
   <br>
   <li>
-    <strong>Commissioning and training</strong><br><br>After ensuring that the UMH deployment meets the specified requirements and functions correctly, the plant personnel is trained in its use and maintenance.
+    <strong>Commissioning and training</strong><br><br>After ensuring that the UNS deployment meets the specified requirements and functions correctly, the plant personnel is trained in its use and maintenance.
   </li>
 </ol>
 </body>
@@ -136,7 +134,7 @@ The first commercialized open-source implementation of a Unified Namespace.
 
 ## Don't Take My Word For it...
 
-Here's what other people have said:
+Here's what others in the aluminium industry have said:
 
 <html>
 <head>
@@ -173,7 +171,7 @@ Here's what other people have said:
         </div>
         <div class="testimonial-container">
         <p class="testimonial-text">Denis did a great job building the <strong>data infrastructure for our IoT-related features</strong> at ForkOn. <br>He is highly focused, well<br> organised and motivated. <br><br> He sets very high standards for his work, which always has lead to excellent quality results.</p>
-        <p class="testimonial-author">- Vlada Pototskaia, Head of Engineering at Froomle</p>
+        <p class="testimonial-author">- Vlada Pototskaia, Head of Engineering at ForkOn</p>
         </div>
     </div>
 </body>
@@ -183,13 +181,13 @@ Here's what other people have said:
 
 ## Still Have Questions?
 
-**Is open-source reliable?**
+**Is open-source software reliable?**
 
-The UMH is rooted in IT best-practices. Today, open-source is the standard in every other industry, from pharma to telecommunications. 
+The UNS is rooted in IT best-practices. Today, open-source is the standard in every other industry, from pharma to telecommunications. 
 
 **What is the total price?**
 
-My one-time, fixed-price implementation fee and the constant yearly price of the UMH Enterprise License.
+My one-time, fixed-price implementation fee and the recurring yearly maintenance price.
 
 **How long will it take?**
 
@@ -197,15 +195,11 @@ The integration work takes three to six months, depending on the speed at which 
 
 **Will I be the sole developer?**
 
-I will implement the project with close support from the UMH developers themselves, to whom I have direct access.
-
-**Why the UMH and not HighByte or Litmus?**
-
-When you choose for the UMH you’re choosing for freedom and independence. The UMH open-source architecture places no restrictions on how data is exchanged and which systems can be integrated.
+I will lead the implementation of the project with close support from experienced UNS developers.
 
 **Where can I find support after the engagement?**
 
-After the training, your plant personnel will have the capability to manage the UMH. Free support is always available via the open UMH community on Discord. Additionally, The UMH offers an Enterprise License with guaranteed service level agreements. Moreover, I am available for hire as an advisory retainer to oversee the administration of the UMH.
+After the training, your plant personnel will have the capability to manage the UNS. In addition, I am available for hire as an advisory retainer to oversee the administration of the UNS.
 
 <br>
 
@@ -260,7 +254,7 @@ Given the demanding nature of the engagement, I only take on three clients per y
 
 ## Why Work With Me?
 
-I'm a **systems integrator** who helps **aluminium smelters** collect and organize **data**.<br> Unlike general IT-professionals, I worked as a process engineer at an aluminium smelter.
+I'm a **data consultant** who helps **aluminium manufacturers** break down data silos.<br> Unlike general IT-professionals, I worked as a process engineer at an aluminium smelter.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -283,7 +277,7 @@ I'm a **systems integrator** who helps **aluminium smelters** collect and organi
 
 <br>
 
-Over the last five years I have provided IT-services for the aluminium industry. Currently, I work as an independent systems integrator implementing data infrastructure for aluminium smelters.
+Over the last five years I have provided IT-services for the aluminium industry. Currently, I work as an independent data consultant building better data infrastructure for aluminium manufacturers.
 
 Before that I was employed as a data engineer at the aluminium rolling and recycling company Novelis. There, I was responsible for transferring process data from rolling mills and cast house furnaces to the cloud.
 
