@@ -10,7 +10,7 @@
 .. hidetitle: yes
 -->
 
-<h1><span style="font-style: italic; color: #007bff">Stop Building</span> Your Digital Future on <span style="font-style: italic; color: #007bff">Legacy</span> Data Infrastructure</h1>
+<h1><span style="color: #4aa1b8">Break Down</span> Your Plant's <span style="color: #4aa1b8">Data Silos</span></h1>
 
 <br>
 <br>
@@ -19,15 +19,15 @@
 
 * You worry about **missing another deadline** because your team spends too much time getting data.
 * Your OT engineers are frustrated with the IT department’s **slow support**.
-* You're exhausted from meetings with software vendors who don't understand your business.
+* You're exhausted from meetings with software vendors who **don't understand** your business.
 
 <br>
 
 ## Imagine Having Your Plant's Data at Your Fingertips…
 
 * Have **confidence** that your data is available at high quality in real time.
-* Have IT and OT **collaborate** on the same platform.
-* **Trust** an engineer who worked years for aluminium manufacturers like yourself.
+* Have **IT and OT** collaborate on the same platform.
+* **Trust an engineer** who worked years for aluminium manufacturers like yourself.
 
 <br>
 
@@ -35,13 +35,18 @@
 
 Unify all data in your business and provide a single access point for it. 
 
-### Benefits
+<div style="text-align: right;">
+  <img src="images/unified-namespace.webp" alt="Unified Namespace">
+  <p style="text-align: right;">Illustration of a Unified Namespace by the United Manufacturing Hub.</p>
+</div>
 
-* Real time insight in your **Overall Equipment Efficiency (OEE)**.
-* Know the cause and duration of **production downtime**.
-* No more point-to-point integrations: add new systems in **days instead of months**.
+## ✅ Benefits
 
-### Here’s How It Works:
+* Real-time insight in your **Overall Equipment Efficiency (OEE)**.
+* Lean yet scalable digital infrastructure that's **simple to maintain**.
+* No more time-consuming integrations: add new systems in **days instead of months**.
+
+##⚙️ How It Works
 
 <!DOCTYPE html>
 <html lang="en">
@@ -132,7 +137,7 @@ Unify all data in your business and provide a single access point for it.
 
 <br>
 
-## Don't Take My Word For it...
+# Don't Take My Word For it...
 
 Here's what others in the aluminium industry have said:
 
@@ -140,7 +145,7 @@ Here's what others in the aluminium industry have said:
 <head>
     <style>
         .testimonial-container {
-            background-color: beige;
+            background-color: #dcf5f4;
             padding: 20px;
             border-radius: 20px;
             width: 300px;
@@ -179,11 +184,11 @@ Here's what others in the aluminium industry have said:
 
 <br>
 
-## Still Have Questions?
+# Still Have Questions?
 
 **Is open-source software reliable?**
 
-The UNS is rooted in IT best-practices. Today, open-source is the standard in every other industry, from pharma to telecommunications. 
+The UNS is rooted in IT best-practices. Today, open-source is the standard in every other industry, from pharma to telecommunications. The advantage of mature open-source technologies is the increased availability of experts because of their wide adoption.
 
 **What is the total price?**
 
@@ -203,7 +208,7 @@ After the training, your plant personnel will have the capability to manage the 
 
 <br>
 
-## My Availability is Limited
+# My Availability is Limited
 
 Given the demanding nature of the engagement, I only take on three clients per year. **Secure your spot now**.
 
@@ -252,7 +257,7 @@ Given the demanding nature of the engagement, I only take on three clients per y
 
 <br>
 
-## Why Work With Me?
+# Why Work With Me?
 
 Unlike general IT-professionals, I have years of industry experience in aluminium production and recycling.
 
@@ -279,7 +284,7 @@ Unlike general IT-professionals, I have years of industry experience in aluminiu
 
 I'm a data consultant who helps aluminium manufacturers break down data silos. 
 
-Over the last five years I have provided IT-services for the aluminium industry. Currently, I work as an independent data consultant building better data infrastructure for aluminium manufacturers.
+Over the last five years I have provided data engineering services for the aluminium industry. Currently, I work as an independent data consultant building better data infrastructure for aluminium manufacturers.
 
 Before that I was employed as a data engineer at the aluminium rolling and recycling company Novelis. There, I was responsible for transferring process data from rolling mills and cast house furnaces to the cloud.
 
@@ -287,7 +292,7 @@ I began my career as a process engineer at the aluminium smelter of TRIMET at Sa
 
 I hold a degree in Materials Engineering from KU Leuven in Belgium and am based in Berlin, Germany.
 
-### Contact
+# Contact
 
 📫 [Get my weekly newsletter](https://subscribe.gontcharov.eu/newsletter){:target="_blank"} <br>
 📧 [denis@gontcharov.eu](mailto:denis@gontcharov.eu){:target="_blank"} <br>
