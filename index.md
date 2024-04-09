@@ -82,10 +82,6 @@ Unify all data in your business and provide a single access point for it.
   </li>
   <br>
   <li>
-    <strong>Configuring the Management Console</strong><br><br>Installing the Management Console provides IT with a tool to monitor and administer the UNS deployment.
-  </li>
-  <br>
-  <li>
     <strong>Commissioning and training</strong><br><br>After ensuring that the UNS deployment meets the specified requirements and functions correctly, the plant personnel is trained in its use and maintenance.
   </li>
 </ol>
