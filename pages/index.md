@@ -10,7 +10,7 @@
 .. hidetitle: yes
 -->
 
-<h1><span style="color: #4aa1b8">Break Down</span> Your Plant's <span style="color: #4aa1b8">Data Silos</span></h1>
+<h3 style="text-align: center;"><span style="color: #4aa1b8">Real-Time Insights • Faster Integration • Easy Maintenance</span></h3>
 
 <br>
 <br>
