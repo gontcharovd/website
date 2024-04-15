@@ -35,10 +35,12 @@
 
 Unify all data in your business and provide a single access point for it. 
 
-<div style="text-align: right;">
-  <img src="images/unified-namespace.webp" alt="Unified Namespace">
-  <p style="text-align: right;">Illustration of a Unified Namespace by the United Manufacturing Hub.</p>
+<div style="text-align: center;">
+  <img src="images/umh-uns.png" alt="Unified Namespace">
+  <p style="text-align: center;">Illustration of a Unified Namespace by the United Manufacturing Hub.</p>
 </div>
+
+<br>
 
 ## ✅ Benefits
 
