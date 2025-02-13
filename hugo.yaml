@@ -1,5 +1,5 @@
 baseURL: "https://gontcharov.eu/"
-title: Landa
+title: Denis Gontcharov
 pagerSize: 5
 theme: PaperMod
 
@@ -60,6 +60,12 @@ params:
     Content: I integrate SCADA with Databricks
 
   socialIcons:
+    - name: linkedin
+      url: https://www.linkedin.com/in/gontcharovd
+    - name: github
+      url: https://github.com/gontcharovd
+    - name: youtube
+      url: https://www.youtube.com/@gontcharovd
 
   analytics:
     google:
@@ -92,21 +98,21 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
     - identifier: About
       name: About
       url: /about/
-      weight: 30
+      weight: 10
     - identifier: Services
       name: Services
       url: /services/
+      weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 40
     - identifier: search
       name: Search

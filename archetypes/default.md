@@ -2,7 +2,7 @@
 title: "title"
 date: {{ .Date }}
 categories: 
- - lay report
+ - Blog
 tags: 
- - Berlin
+ - Linux
 ---
