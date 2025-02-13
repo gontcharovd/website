@@ -1,0 +1,16 @@
+# Ignore the public folder (generated output)
+public/
+
+# Ignore Hugo cache and resources
+resources/_gen/
+
+# Ignore log files
+*.log
+
+# Ignore node_modules (if using npm/yarn)
+node_modules/
+
+# Ignore Hugo build lock file
+.hugo_build.lock
+
+*.swp
