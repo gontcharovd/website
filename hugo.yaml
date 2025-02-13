@@ -27,7 +27,7 @@ params:
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
@@ -56,8 +56,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi, I'm Denis 👋"
-    Content: I integrate SCADA with Databricks
+    Title: "Hi! I'm Denis Gontcharov"
+    Content: I help industrial enterprises transfer data from legacy SCADA systems to Databricks
 
   socialIcons:
     - name: linkedin
@@ -139,3 +139,6 @@ outputs:
 services:
   disqus:
     shortname:
+
+mainSections:
+  - posts
