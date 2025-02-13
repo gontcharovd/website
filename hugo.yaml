@@ -56,7 +56,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi, I'm Denis"
+    Title: "Hi, I'm Denis 👋"
     Content: I integrate SCADA with Databricks
 
   socialIcons:
