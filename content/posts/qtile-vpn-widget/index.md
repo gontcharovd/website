@@ -2,7 +2,7 @@
 title: "Developing a Qtile VPN Widget"
 date: 2025-02-13T18:01:26+01:00
 categories: 
- - Blog
+ - Personal
 tags: 
  - Linux
  - Network
