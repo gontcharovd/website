@@ -56,8 +56,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi! I'm Denis Gontcharov"
-    Content: I'm an **OT Data Engineer** who helps industrial enterprises with connecting **legacy SCADA** systems to **Azure Databricks**.
+    # Title: "Trouble extracting quality data from legacy SCADA systems?"
+    Title: "Struggling with Industrial Data?"
+    Content: Hi! I'm Denis Gontcharov. I'm an **OT Data Engineer** who helps industrial enterprises with connecting **legacy SCADA** systems to **Azure Databricks**.
 
   socialIcons:
     - name: linkedin
