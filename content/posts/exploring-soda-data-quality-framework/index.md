@@ -135,13 +135,13 @@ What I like about Soda Cloud is the out-of-the-box visualization of my test resu
 
 Soda looks promising, but it's too early to tell whether it fits my current use cases.
 
-## What I like:
+What I like:
 
 * Minimalistic design
 * Intuitive configuration
 * Convenient dashboard
 
-## What I don't like:
+What I *don't* like:
 
 * Data is sent off-premises
 * Financial cost[^2]
