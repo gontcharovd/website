@@ -2,13 +2,13 @@
 title: "About"
 ---
 
-<a href="/documents/CV_Denis_Gontcharov.pdf" target="_blank" download>Download my CV</a>
+<a href="/static/documents/CV_Denis_Gontcharov.pdf" target="_blank" download>Download my CV</a>
 
 > I'm an OT Data Engineer who helps industrial enterprises with connecting legacy SCADA systems to Azure Databricks.
 
 Since the start of my career in 2018, I have been fascinated by industrial data. Most of my work was on the interface where legacy plant systems meet modern IT solutions. I'm a big believer that industrial data can be used to improve operations, provided it's of high quality - that is my mission.
 
-<img src="/images/headshot.jpg" alt="My Headshot" width="400" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="/static/images/headshot.jpg" alt="My Headshot" width="400" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
 Today I work as an independent consultant focusing on Digital Transformation, data quality testing, and system integration. Industries I serve include aluminium production and recycling, renewable energy, and discrete metal manufacturing.
 
