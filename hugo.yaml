@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "SCADA Integration"
-  description: "ExampleSite description"
+  title: "Legacy SCADA Integration"
+  description: "OT Data Engineer who helps industrial enterprises with connecting legacy SCADA systems to Azure Databricks."
   keywords: [Blog, Portfolio, PaperMod]
   author:
   # author: ["Me", "You"] # multiple authors
@@ -57,7 +57,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi! I'm Denis Gontcharov"
-    Content: I help industrial enterprises transfer data from legacy SCADA systems to Databricks
+    Content: I'm an **OT Data Engineer** who helps industrial enterprises with connecting **legacy SCADA** systems to **Azure Databricks**.
 
   socialIcons:
     - name: linkedin
@@ -66,6 +66,8 @@ params:
       url: https://github.com/gontcharovd
     - name: youtube
       url: https://www.youtube.com/@gontcharovd
+    - name: xing
+      url: https://www.xing.com/profile/Denis_Gontcharov/web_profiles?expandNeffi=true
 
   analytics:
     google:

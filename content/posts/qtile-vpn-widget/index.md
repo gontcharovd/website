@@ -5,6 +5,7 @@ categories:
  - Blog
 tags: 
  - Linux
+ - Network
 ---
 
 I often work from WeWork, which is a public co-working space with a shared WIFI-network. 
