@@ -65,10 +65,6 @@ params:
       url: https://www.linkedin.com/in/gontcharovd
     - name: github
       url: https://github.com/gontcharovd
-    - name: youtube
-      url: https://www.youtube.com/@gontcharovd
-    - name: xing
-      url: https://www.xing.com/profile/Denis_Gontcharov/web_profiles?expandNeffi=true
 
   analytics:
     google:
