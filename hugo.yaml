@@ -65,6 +65,8 @@ params:
       url: https://www.linkedin.com/in/gontcharovd
     - name: github
       url: https://github.com/gontcharovd
+    - name: email
+      url: mailto:denis@gontcharov.eu
 
   analytics:
     google:
