@@ -5,7 +5,7 @@ categories:
     - Blog
 tags:
     - United Manufacturing Hub
-    - Energy Monitoring
+    - Grafana
 ---
 
 *This article was written for the [United Manufacturing Hub](https://learn.umh.app/blog/cloud-native-technologies-on-the-edge-in-manufacturing/)*

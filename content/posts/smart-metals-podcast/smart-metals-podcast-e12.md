@@ -4,7 +4,7 @@ date: 2025-01-13T09:41:22+02:00
 categories:
  - Podcast
 Tags:
- - Factory Connectivity
+ - Digital Transformation
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/64HLGtorBxdKvTqVmB3pdo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
