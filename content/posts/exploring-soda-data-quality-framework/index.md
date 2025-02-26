@@ -2,8 +2,9 @@
 title: "Exploring Soda Data Quality Testing on Databricks"
 date: 2025-02-14T10:08:53+01:00
 categories: 
- - Data Quality
+ - Blog
 tags: 
+ - Data Quality
  - Soda
 ---
 

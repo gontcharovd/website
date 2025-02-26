@@ -11,13 +11,19 @@ This week at Smart Metals Podcast, we, the hosts Luke van Enkhuizen and Denis Go
 
 We delved deeper into the challenges of preserving expertise in a digital age and the potential future of factories. If your current challenge is balancing domain knowledge with technological advancements, then listen to this episode when you have a moment.
 
-### Interesting Quotes
+# Notable Quotes
 
-* "Domain knowledge is what makes your company what it is today. It's the secret sauce that's hard to replace." – Luke van Enkhuizen
-* "Even with the best AI, the most complex and ambiguous decisions will always need a human touch." – Denis Gontcharov
-* "Without clean data and solid digital infrastructure, even the deepest domain knowledge can't be effectively leveraged." – Luke van Enkhuizen
-* "The factory of the future will have only two employees, a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment." – Warren G. Bennis
-* "We still don't really know what happens chemically inside the [aluminum electrolysis] cell. It's essentially still a very big black box." – Denis Gontcharov*
+> "Domain knowledge is what makes your company what it is today. It's the secret sauce that's hard to replace." – Luke van Enkhuizen
+
+> "Even with the best AI, the most complex and ambiguous decisions will always need a human touch." – Denis Gontcharov
+
+> "Without clean data and solid digital infrastructure, even the deepest domain knowledge can't be effectively leveraged." – Luke van Enkhuizen
+
+> "The factory of the future will have only two employees, a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment." – Warren G. Bennis
+
+> "We still don't really know what happens chemically inside the [aluminum electrolysis] cell. It's essentially still a very big black box." – Denis Gontcharov*
+
+# Relevant Links
 
 * [Follow the show](https://smartmetals.transistor.fm/)
 * [About Denis Gontcharov](https://gontcharov.eu/)

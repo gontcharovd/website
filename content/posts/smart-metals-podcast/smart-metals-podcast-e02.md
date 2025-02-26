@@ -3,6 +3,8 @@ title: "🎧 Smart Metals Podcast E2: Transform Your Metals Industry, Top-Down v
 date: 2024-04-22T09:14:52+02:00
 categories:
   - Podcast
+tags:
+ - Digital Transformation
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4XaKfTBfXhkPeQcE3jXV9o?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

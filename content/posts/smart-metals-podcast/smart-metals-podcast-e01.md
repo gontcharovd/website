@@ -3,6 +3,8 @@ title: "🎧 Smart Metals Podcast E1: The Evolution from Data Science to Data En
 date: 2024-04-02T09:03:58+02:00
 categories:
  - Podcast
+tags:
+ - Industry 4.0
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/75Ps4rZBDt9s4duUKKX2tQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -3,6 +3,9 @@ title: "🎧 Smart Metals Podcast E3: Navigating Pitfalls in Digital Transformat
 date: 2024-05-13T09:20:44+02:00
 categories:
  - Podcast
+Tags:
+ - Digital Transformation
+ - Pitfalls
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0URimFu8VmIVMxQbcHAm1P?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

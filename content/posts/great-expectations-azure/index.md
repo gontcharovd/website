@@ -2,10 +2,11 @@
 title: "Hosting Great Expectations Data Docs on Azure Blob Storage"
 date: 2025-02-20T18:17:42+01:00
 categories: 
- - Data Quality
+ - Blog
 tags: 
- - Great Expectations
  - Azure
+ - Data Quality
+ - Great Expectations
 ---
 
 # Resources

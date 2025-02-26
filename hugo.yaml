@@ -1,5 +1,5 @@
 baseURL: "https://gontcharov.eu/"
-title: Denis Gontcharov
+title: "Denis Gontcharov"
 pagerSize: 5
 theme: PaperMod
 
@@ -57,7 +57,7 @@ params:
   # home-info mode
   homeInfoParams:
     # Title: "Trouble extracting quality data from legacy SCADA systems?"
-    Title: "Struggling with Industrial Data?"
+    Title: "Do You Trust your SCADA Data?"
     Content: Hi! I'm Denis Gontcharov. I'm an **OT Data Engineer** who helps industrial enterprises with connecting **legacy SCADA** systems to **Azure Databricks**.
 
   socialIcons:
@@ -140,6 +140,3 @@ outputs:
 services:
   disqus:
     shortname:
-
-mainSections:
-  - posts

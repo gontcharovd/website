@@ -11,7 +11,7 @@ In this episode of the Smart Metals Podcast, host Luke van Enkhuizen and co-host
 
 The discussion covers the challenges faced by metalworking companies in digital transformation and provides practical advice on how they can become more efficient and meet customer demands.
 
- Luke highlights the importance of creating a strategic plan, understanding customer needs, and ensuring comprehensive training for staff to effectively implement digital solutions. 
+Luke highlights the importance of creating a strategic plan, understanding customer needs, and ensuring comprehensive training for staff to effectively implement digital solutions. 
 
 The conversation also touches on the role of vendors, the urgency for digital transformation due to market uncertainties, and the evolving landscape of software solutions in the industry.
 
