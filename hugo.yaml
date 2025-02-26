@@ -103,10 +103,10 @@ menu:
       name: About
       url: /about/
       weight: 10
-    - identifier: Services
-      name: Services
-      url: /services/
-      weight: 20
+    # - identifier: Services
+    #   name: Services
+    #   url: /services/
+    #   weight: 20
     - identifier: categories
       name: Categories
       url: /categories/
