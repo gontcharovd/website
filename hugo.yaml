@@ -57,7 +57,7 @@ params:
   # home-info mode
   homeInfoParams:
     # Title: "Trouble extracting quality data from legacy SCADA systems?"
-    Title: "Do You Trust your SCADA Data?"
+    Title: "Struggling with SCADA Data in Databricks?"
     Content: Hi! I'm Denis Gontcharov. I'm an **OT Data Engineer** who helps industrial enterprises with connecting **legacy SCADA** systems to **Azure Databricks**.
 
   socialIcons:
