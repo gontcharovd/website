@@ -1,6 +1,6 @@
 ---
 title: "🎧 Smart Metals Podcast E10: Unifying Manufacturing with Unified Namespace: A Conversation with Brian Pribe"
-date: 2024-11-25T09:41:22+02:00
+date: 2024-11-14T09:41:22+02:00
 categories:
  - Podcast
 Tags:
