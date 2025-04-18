@@ -4,7 +4,9 @@ title: "About"
 
 Since 2018, I have been driven by a passion for industrial data and its potential to revolutionize operations. My journey has been marked by a commitment to bridging the gap between legacy plant systems and cutting-edge IT solutions, with a particular focus on leveraging Databricks to analyze and optimize industrial data.
 
-<img src="/images/headshot.jpg" alt="My Headshot" width="400" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+{{< youtube OElpV8K0z9U >}}
+
+<br>
 
 Today, I specialize in helping industrial enterprises harness the power of Databricks to analyze their data effectively. As an independent consultant, I focus on Digital Transformation, data quality testing, and system integration, all centered around the capabilities of Databricks. I serve a variety of industries, including aluminium production and recycling, renewable energy, and discrete metal manufacturing.
 
