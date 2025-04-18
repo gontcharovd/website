@@ -58,7 +58,7 @@ params:
   homeInfoParams:
     # Title: "Trouble extracting quality data from legacy SCADA systems?"
     Title: " I help industrial enterprises analyze operational data with Databricks "
-    Content: Hi! I'm Denis Gontcharov. Want to learn Databricks? <ins>[Click here](https://subscribe.gontcharov.eu/)</ins> to subscribe to my mailing list.
+    Content: Hi! I'm Denis Gontcharov. Want to learn Databricks? <ins>[Click here](https://newsletter.gontcharov.eu/)</ins> to subscribe to my newsletter.
 
   socialIcons:
     - name: linkedin
