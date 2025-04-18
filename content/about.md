@@ -2,20 +2,17 @@
 title: "About"
 ---
 
-<a href="/documents/CV_Denis_Gontcharov.pdf" target="_blank" download>Download my CV</a>
-
-> I'm an OT Data Engineer who helps industrial enterprises with connecting legacy SCADA systems to Azure Databricks.
-
-Since the start of my career in 2018, I have been fascinated by industrial data. Most of my work was on the interface where legacy plant systems meet modern IT solutions. I'm a big believer that industrial data can be used to improve operations, provided it's of high quality - that is my mission.
+Since 2018, I have been driven by a passion for industrial data and its potential to revolutionize operations. My journey has been marked by a commitment to bridging the gap between legacy plant systems and cutting-edge IT solutions, with a particular focus on leveraging Databricks to analyze and optimize industrial data.
 
 <img src="/images/headshot.jpg" alt="My Headshot" width="400" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
-Today I work as an independent consultant focusing on Digital Transformation, data quality testing, and system integration. Industries I serve include aluminium production and recycling, renewable energy, and discrete metal manufacturing.
+Today, I specialize in helping industrial enterprises harness the power of Databricks to analyze their data effectively. As an independent consultant, I focus on Digital Transformation, data quality testing, and system integration, all centered around the capabilities of Databricks. I serve a variety of industries, including aluminium production and recycling, renewable energy, and discrete metal manufacturing.
 
-Before founding my consulting business I was employed as a data engineer at the aluminium rolling and recycling company Novelis. There, I was responsible for transferring process data from rolling mills and cast house furnaces to the cloud.
+Before embarking on my consulting career, I honed my skills as a data engineer at Novelis, an aluminium rolling and recycling company. There, I was instrumental in transferring process data from rolling mills and cast house furnaces to the cloud, utilizing Databricks to ensure high-quality data analysis.
 
-I began my career as a process engineer at the aluminium smelter of TRIMET at Saint-Jean-de-Maurienne in France. Later I was working as a process engineer at their smelter in Essen, Germany where I developed control software for the electrolysis process.
+I began my career as a process engineer at TRIMET's aluminium smelter in Saint-Jean-de-Maurienne, France. Later, I continued my work at their smelter in Essen, Germany, where I developed control software for the electrolysis process. These experiences have equipped me with a deep understanding of industrial processes and the importance of high-quality data in driving operational excellence.
 
+<a href="/documents/CV_Denis_Gontcharov.pdf" target="_blank" download>Download my CV</a>
 
 ## Nice things others said about me
 

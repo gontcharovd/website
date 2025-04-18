@@ -14,9 +14,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "Legacy SCADA Integration"
-  description: "OT Data Engineer who helps industrial enterprises with connecting legacy SCADA systems to Azure Databricks."
-  keywords: [Blog, Portfolio, PaperMod]
+  title: "I help industrial enterprises process operational data with Databricks"
+  description: " I help industrial enterprises process operational data with Databricks"
+  keywords: [Data, Databricks, Industry]
   author:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -57,14 +57,16 @@ params:
   # home-info mode
   homeInfoParams:
     # Title: "Trouble extracting quality data from legacy SCADA systems?"
-    Title: "Struggling with SCADA Data in Databricks?"
-    Content: Hi! I'm Denis Gontcharov. I'm an **OT Data Engineer** who helps industrial enterprises with connecting **legacy SCADA** systems to **Azure Databricks**.
+    Title: " I help industrial enterprises analyze operational data with Databricks "
+    Content: Hi! I'm Denis Gontcharov. Want to learn Databricks? <ins>[Click here](https://subscribe.gontcharov.eu/)</ins> to subscribe to my mailing list.
 
   socialIcons:
     - name: linkedin
       url: https://www.linkedin.com/in/gontcharovd
     - name: github
       url: https://github.com/gontcharovd
+    - name: youtube
+      url: https://www.youtube.com/channel/UCcsI73uDkOCPINpFQ5ARihQ
     - name: email
       url: mailto:denis@gontcharov.eu
 
