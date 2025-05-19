@@ -14,7 +14,23 @@ Before embarking on my consulting career, I honed my skills as a data engineer a
 
 I began my career as a process engineer at TRIMET's aluminium smelter in Saint-Jean-de-Maurienne, France. Later, I continued my work at their smelter in Essen, Germany, where I developed control software for the electrolysis process. These experiences have equipped me with a deep understanding of industrial processes and the importance of high-quality data in driving operational excellence.
 
-<a href="/documents/CV_Denis_Gontcharov.pdf" target="_blank" download>Download my CV</a>
+<div style="text-align: center; margin: 30px 0;">
+  <a href="/documents/CV_Denis_Gontcharov.pdf" 
+     target="_blank" 
+     download
+     style="background-color: #0066ff; 
+            color: white; 
+            padding: 12px 25px; 
+            border-radius: 25px; 
+            font-weight: bold; 
+            text-decoration: none; 
+            display: inline-block;
+            font-size: 16px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;">
+    Download my CV
+  </a>
+</div>
 
 ## Nice things others said about me
 
