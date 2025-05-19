@@ -18,8 +18,8 @@ pagination:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "I help industrial enterprises process operational data with Databricks"
-  description: " I help industrial enterprises process operational data with Databricks"
+  title: "I help industrial enterprises transfer OT data from SCADA to Databricks"
+  description: "I help industrial enterprises transfer OT data from SCADA to Databricks"
   keywords: [Data, Databricks, Industry]
   author:
   # author: ["Me", "You"] # multiple authors
@@ -61,7 +61,7 @@ params:
   # home-info mode
   homeInfoParams:
     # Title: "Trouble extracting quality data from legacy SCADA systems?"
-    Title: " I help industrial enterprises analyze operational data with Databricks "
+    Title: "I help industrial enterprises transfer OT data from SCADA to Databricks"
     Content: Hi! I'm Denis Gontcharov. Want to learn Databricks? <ins>[Click here](https://newsletter.gontcharov.eu/)</ins> to subscribe to my newsletter.
 
   socialIcons:
