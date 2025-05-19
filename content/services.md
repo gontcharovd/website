@@ -2,29 +2,31 @@
 title: "Services"
 ---
 
+I help industrial enterprises transfer OT data from SCADA to Databricks.
+
 # 1. SCADA Data Integration
 
-Your valuable operational data is trapped in legacy SCADA systems and historians. Engineers waste hours manually extracting information while critical production decisions are delayed due to inaccessible data.
+Your valuable operational data is trapped in legacy SCADA systems and historians. Engineers waste hours manually extracting data while various teams complain about missing data.
 
-A unified view of your operational data flowing seamlessly into Databricks. Instant access to any historical data point, automated alerts based on predictive models, and real-time KPI dashboards across your asset portfolio.
+Imagine having a clear view of your OT data flowing seamlessly into Azure and Databricks. Get instant access to any historical data point, enabling you to build automated alerts based on predictive models, and real-time KPI dashboards across your asset portfolio.
 
-We build robust connectors between legacy systems and Databricks, automate extraction with error handling, and establish complete data lineage. Your operational data becomes a strategic asset without replacing existing SCADA investments.
+I connect your SCADA systems to Databricks using the right tools for the job. I set up reliable data flows that track errors and keep a record of where all your information comes from. This lets you get value from your data without having to replace your existing SCADA equipment.
 
-# 2. Data Quality Testing
+# 2. OT Data Quality Testing
 
-Data quality issues undermine confidence in your asset monitoring insights. False alarms trigger unnecessary maintenance while critical anomalies go undetected. Your team struggles with framework selection and implementation in Databricks.
+Bad data quality issues undermines confidence in your asset monitoring insights. False alarms trigger unnecessary spam while critical anomalies go undetected. Should you use Great Expectations or Soda Core? And how do you implement this framework in Databricks?
 
-Complete trust in your operational data. Every decision backed by validated metrics, with automated compliance reporting and quality scores. Your teams focus on operations, not questioning data integrity.
+Imagine having complete trust in your OT data. Every dataset is backed by validated metrics, with automated compliance reporting using quality scores. Your teams focus on operations, not questioning data.
 
-We implement a tailored quality framework for industrial data on Databricks, with automated validation pipelines, ML-based anomaly detection, and domain-specific scorecards. Our approach ensures long-term quality excellence beyond our engagement.
+I build aan automated data quality testing framework that checks if your OT data is accurate and reliable in Databricks. This includes automatic tests that verify your data is correct and easy-to-read reports that show data quality for each part of your operation. My solution helps you maintain high-quality data long after our work together is complete.
 
-# 3. Databricks Use Case Architecture
+# 3. Databricks Project Guidance
 
-You see Databricks' potential but lack senior engineering expertise to implement it effectively. Projects stall from feature indecision, cloud costs escalate without proportional value, and inconsistent implementations duplicate effort.
+You assembled a team of domain experts for an analytics project but lack the necessary Databricks skills. You're unsure of which Databricks features to leverage. How do you design a solution that's maintainable and scalable across your production sites?
 
-A precisely architected environment where business use cases have clear technical paths. Engineers work confidently within established patterns, new solutions deploy rapidly, and you extract maximum value from your Databricks investment.
+Imagine having a precisely architected Databricks environment where engineers and business users collaborate effectively. Work confidently within established patterns, new solutions deploy rapidly, and you extract maximum value from your Databricks investment.
 
-Our certified Databricks experts provide tailored reference architectures, reusable accelerators for common patterns, and governance frameworks balancing innovation with standardization. We build your internal capability while delivering immediate business value.
+I use my industry experience and Databricks expertise to create a simple blueprint for your project. I work with your team to build reusable tools they can apply again and again. Together, we'll set up practical guidelines that keep your data organized while still allowing for creativity and innovation.
 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -42,7 +44,7 @@ Our certified Databricks experts provide tailored reference architectures, reusa
             font-size: 16px;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
             transition: all 0.3s ease;">
-    Book a Call
+    Schedule a Call
   </a>
 </div>
 <!-- Calendly link widget end -->
@@ -72,13 +74,13 @@ Our certified Databricks experts provide tailored reference architectures, reusa
 
 — [Olivier Granacher](https://www.linkedin.com/in/oliviergranacher/), *Senior Process Engineer at Trimet France*
 
-# Have Questions?
-
-Text
-
 # Why Me?
 
-Text
+There are all sorts of data consultants that could potentially help you with Databricks. So why work with me?
+
+* I have five years of hands-on experience working with data in the heavy industry.
+* My Materials Engineering education allow me to understand your data on a technological level.
+* Having served companies ranging from startups to multinational enterprises, I understand the delicate balance between the need for structure and flexibility.
 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -96,11 +98,13 @@ Text
             font-size: 16px;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
             transition: all 0.3s ease;">
-    Book a Call
+    Schedule a Call
   </a>
 </div>
 <!-- Calendly link widget end -->
 
 # My Availability is Limited
 
-Because of the intensive nature of these projects I can only take on a small number of clients each year. Book a call now to secure your spot.
+Because of the intensive nature of these projects I can only take on a small number of clients each year. Schedule a Call now to secure your spot.
+
+***

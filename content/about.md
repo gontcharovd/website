@@ -31,3 +31,5 @@ I began my career as a process engineer at TRIMET's aluminium smelter in Saint-J
     Download my CV
   </a>
 </div>
+
+***
