@@ -9,7 +9,7 @@ tags:
  - SCADA
 ---
 
-I'm excited to share the latest episode of the Industrial Data Podcast featuring Lonnie Bowling (link to your profile), founder of Diemus Consulting. We explore the fascinating evolution of OT data integration, from basic SCADA trend-viewing to today's cloud-based AI analytics.
+I'm excited to share the latest episode of the Industrial Data Podcast featuring Lonnie Bowling, founder of Diemus Consulting. We explore the fascinating evolution of OT data integration, from basic SCADA trend-viewing to today's cloud-based AI analytics.
 
 Lonnie shares how historians like OSIsoft PI transformed from simple tools to enterprise-wide platforms, while discussing the ongoing industry consolidation (AVEVA acquisition of OSIsoft) reshaping the landscape.
 
