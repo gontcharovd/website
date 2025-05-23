@@ -22,7 +22,7 @@ I build aan automated data quality testing framework that checks if your OT data
 
 # 3. Databricks Project Guidance
 
-You assembled a team of domain experts for an analytics project but lack the necessary Databricks skills. You're unsure of which Databricks features to leverage. How do you design a solution that's maintainable and scalable across your production sites?
+You have many IT people configuring Databricks, but not many people *using* Databricks? Your analytics project stay in the proof-of-concept phase. You're unsure of which Databricks features to leverage.
 
 Imagine having a precisely architected Databricks environment where engineers and business users collaborate effectively. Work confidently within established patterns, new solutions deploy rapidly, and you extract maximum value from your Databricks investment.
 
