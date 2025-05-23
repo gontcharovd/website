@@ -38,7 +38,7 @@ Compiling espanso requires *wxWidgets*:
 sudo xbps-install -S wxWidgets-gtk3-devel
 ```
 
-# Download espanso
+# Build espanso
 
 Next I followed the espanso [install from source guide](https://espanso.org/docs/install/linux/#wayland-compile).
 
@@ -114,7 +114,13 @@ X-GNOME-Autostart-enabled=true
 EOF
 ```
 
+Don't forget to add the CAP_DAC_OVERRIDE capability to the binary's set of Permitted ones[^2]:
+
+```sh
+sudo setcap "cap_dac_override+p" $(which espanso)
+```
+
 That's it! You can now enjoy espanso on Wayland.
 
 [^1]: Void Linux doesn't have Systemd, which means espanso can't run in managed mode. You can run it in unmanaged mode with `espanso service start --unmanaged`.
-
+[^2]: See [here](https://espanso.org/docs/install/linux/#adding-the-required-capabilities).
