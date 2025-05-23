@@ -34,7 +34,7 @@ rustc --version
 
 Compiling espanso requires *wxWidgets*:
 
-```
+```sh
 sudo xbps-install -S wxWidgets-gtk3-devel
 ```
 
