@@ -1,0 +1,98 @@
+{{/* Custom newsletter subscription form for Kit (ConvertKit) */}}
+
+<div class="subscribe-form">
+    <form
+        action="https://app.convertkit.com/forms/8199782/subscriptions"
+        method="post"
+        class="newsletter-form"
+    >
+        <input name="utf8" type="hidden" value="✓" />
+        <div class="input-group">
+            <input
+                type="email"
+                name="email_address"
+                placeholder="Your email address"
+                required
+                aria-label="Email address"
+            />
+            <button type="submit">Subscribe</button>
+        </div>
+        <div class="privacy-notice">
+            <small>No spam, unsubscribe at any time.</small>
+        </div>
+    </form>
+</div>
+
+<style>
+    .subscribe-form {
+        margin: 2rem 0;
+        border: none !important;
+        background: transparent !important;
+    }
+
+    .newsletter-form {
+        border: none !important;
+        background: transparent !important;
+    }
+
+    .newsletter-form .input-group {
+        display: flex;
+        gap: 0.5rem;
+        margin-bottom: 1rem;
+        flex-wrap: wrap;
+    }
+
+    .newsletter-form input[type="email"] {
+        flex: 1;
+        min-width: 250px;
+        padding: 0.75rem 1rem;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        background: var(--theme);
+        color: var(--primary);
+        font-size: 1rem;
+        transition: border-color 0.2s ease;
+    }
+
+    .newsletter-form input[type="email"]:focus {
+        outline: none;
+        border-color: var(--tertiary);
+    }
+
+    .newsletter-form button {
+        padding: 0.75rem 1.5rem;
+        background: var(--tertiary);
+        color: var(--theme);
+        border: none;
+        border-radius: 6px;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+        white-space: nowrap;
+    }
+
+    .newsletter-form button:hover {
+        background: var(--primary);
+    }
+
+    .privacy-notice {
+        text-align: center;
+        color: var(--secondary);
+        font-size: 0.9rem;
+    }
+
+    @media (max-width: 600px) {
+        .newsletter-form .input-group {
+            flex-direction: column;
+        }
+
+        .newsletter-form input[type="email"] {
+            min-width: 100%;
+        }
+
+        .newsletter-form button {
+            width: 100%;
+        }
+    }
+</style>

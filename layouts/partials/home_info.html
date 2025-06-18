@@ -1,0 +1,104 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+
+    <!-- Newsletter Signup Form -->
+    <div class="home-newsletter-signup">
+        <form
+            action="https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions"
+            method="post"
+            class="home-newsletter-form"
+        >
+            <input name="utf8" type="hidden" value="✓" />
+            <div class="form-group">
+                <input
+                    type="email"
+                    name="email_address"
+                    placeholder="Enter your email address"
+                    required
+                    aria-label="Email address"
+                    class="email-input"
+                />
+                <button type="submit" class="subscribe-btn">Subscribe</button>
+            </div>
+        </form>
+    </div>
+</article>
+
+<style>
+.home-newsletter-signup {
+    margin-top: 2rem;
+}
+
+.home-newsletter-form .form-group {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.home-newsletter-form .email-input {
+    flex: 1;
+    min-width: 280px;
+    max-width: 350px;
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--border);
+    border-radius: 6px;
+    background: var(--theme);
+    color: var(--primary);
+    font-size: 1rem;
+    transition: all 0.2s ease;
+}
+
+.home-newsletter-form .email-input:focus {
+    outline: none;
+    border-color: var(--tertiary);
+    box-shadow: 0 0 0 3px rgba(var(--tertiary), 0.15);
+}
+
+.home-newsletter-form .subscribe-btn {
+    padding: 0.75rem 1.5rem;
+    background: var(--tertiary);
+    color: var(--theme);
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    min-width: 120px;
+}
+
+.home-newsletter-form .subscribe-btn:hover {
+    background: var(--primary);
+    transform: translateY(-1px);
+}
+
+.home-newsletter-form .subscribe-btn:active {
+    transform: translateY(0);
+}
+
+@media (max-width: 600px) {
+    .home-newsletter-form .form-group {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .home-newsletter-form .email-input {
+        min-width: 100%;
+        max-width: none;
+    }
+
+    .home-newsletter-form .subscribe-btn {
+        width: 100%;
+    }
+}
+</style>
+{{- end }}

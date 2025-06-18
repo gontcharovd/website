@@ -25,6 +25,7 @@ params:
   description: "I help industrial enterprises transfer OT data from SCADA to Databricks"
   keywords: [Denis, Gontcharov, Databricks]
   author: Denis Gontcharov
+  mainSections: ["posts"]
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -81,15 +82,15 @@ params:
 
       I help industrial enterprises transfer OT data from SCADA to Databricks.
 
-  socialIcons:
-    - name: linkedin
-      url: https://www.linkedin.com/in/gontcharovd
-    # - name: github
-    #   url: https://github.com/gontcharovd
-    - name: youtube
-      url: https://www.youtube.com/channel/UCcsI73uDkOCPINpFQ 5ARihQ
-    - name: email
-      url: mailto:denis@gontcharov.eu
+  # socialIcons:
+  #   - name: linkedin
+  #     url: https://www.linkedin.com/in/gontcharovd
+  #   # - name: github
+  #   #   url: https://github.com/gontcharovd
+  #   - name: youtube
+  #     url: https://www.youtube.com/channel/UCcsI73uDkOCPINpFQ 5ARihQ
+  #   - name: email
+  #     url: mailto:denis@gontcharov.eu
 
   analytics:
     google:
@@ -125,6 +126,10 @@ menu:
       name: Services
       url: /services/
       weight: 10
+    - identifier: Newsletter
+      name: Newsletter
+      url: /newsletter/
+      weight: 15
     - identifier: About
       name: About
       url: /about/
