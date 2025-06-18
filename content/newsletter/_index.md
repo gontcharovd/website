@@ -1,6 +1,6 @@
 ---
 title: "Newsletter archive"
-description: "Datbricks insights"
+description: "Databricks insights"
 type: "newsletter"
 layout: "list"
 ---
