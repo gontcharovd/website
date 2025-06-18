@@ -1,15 +1,15 @@
 ---
-title: "New post das"
+title: "Real-time SCADA Data Streaming to Databricks"
 date: 2025-06-19T10:00:00+00:00
 draft: false
-issueno: "001"
-summary: "Welcome to my newsletter on SCADA data integration and industrial automation"
+issueno: "003"
+summary: "Learn how to set up real-time data streaming from SCADA systems to Databricks"
 tags: []
 ---
 
-# Hello World
+# Real-time SCADA Data Streaming to Databricks
 
-Welcome to the first issue of my newsletter! I'm excited to share insights on SCADA data integration, industrial automation, and how to leverage Databricks for industrial data analytics.
+This week, I'm exploring how to set up real-time data streaming from SCADA systems directly into Databricks for immediate analytics and monitoring.
 
 ## What to Expect
 

@@ -1,17 +1,15 @@
 ---
-title: "New post das"
-date: 2025-06-19T12:00:00+00:00
+title: "Optimizing Databricks for Industrial Time Series Data"
+date: 2025-06-21T10:00:00+00:00
 draft: false
-issueno: "001"
-summary: "Welcome to my newsletter on SCADA data integration and industrial automation"
+issueno: "005"
+summary: "Best practices for handling large-scale industrial time series data in Databricks"
 tags: []
 ---
 
-# Hello World
+# Optimizing Databricks for Industrial Time Series Data
 
-asdfja;ksjd;fkasjdk
-
-Welcome to the first issue of my newsletter! I'm excited to share insights on SCADA data integration, industrial automation, and how to leverage Databricks for industrial data analytics.
+This week, I'm exploring the specific challenges and solutions for handling massive volumes of industrial time series data in Databricks, from ingestion to analysis.
 
 
 ## This Week's Highlight

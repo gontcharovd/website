@@ -1,15 +1,15 @@
 ---
-title: "New post das"
-date: 2025-06-19T10:00:00+00:00
+title: "Data Pipeline Monitoring with Delta Live Tables"
+date: 2025-06-20T10:00:00+00:00
 draft: false
-issueno: "001"
-summary: "Welcome to my newsletter on SCADA data integration and industrial automation"
+issueno: "004"
+summary: "Learn how to implement comprehensive monitoring for your data pipelines using Delta Live Tables"
 tags: []
 ---
 
-# Hello World
+# Data Pipeline Monitoring with Delta Live Tables
 
-Welcome to the first issue of my newsletter! I'm excited to share insights on SCADA data integration, industrial automation, and how to leverage Databricks for industrial data analytics.
+This week, I'm diving into one of the most critical aspects of industrial data operations: monitoring your data pipelines to ensure reliability and data quality.
 
 ## What to Expect
 
