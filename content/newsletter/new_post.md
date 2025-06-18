@@ -1,6 +1,6 @@
 ---
-title: "New post"
-date: 2025-06-18T10:00:00+00:00
+title: "New post das"
+date: 2025-06-19T10:00:00+00:00
 draft: false
 issueno: "001"
 summary: "Welcome to my newsletter on SCADA data integration and industrial automation"
