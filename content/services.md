@@ -32,14 +32,14 @@ I use my industry experience and Databricks expertise to create a simple bluepri
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <div style="text-align: center; margin: 30px 0;">
-  <a href="" 
+  <a href=""
      onclick="Calendly.initPopupWidget({url: 'https://calendly.com/gontcharovd/introductory-call'});return false;"
-     style="background-color: #0066ff; 
-            color: white; 
-            padding: 12px 25px; 
-            border-radius: 25px; 
-            font-weight: bold; 
-            text-decoration: none; 
+     style="background-color: #0066ff;
+            color: white;
+            padding: 12px 25px;
+            border-radius: 25px;
+            font-weight: bold;
+            text-decoration: none;
             display: inline-block;
             font-size: 16px;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -86,25 +86,23 @@ There are all sorts of data consultants that could potentially help you with Dat
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <div style="text-align: center; margin: 30px 0;">
-  <a href="" 
+  <a href=""
      onclick="Calendly.initPopupWidget({url: 'https://calendly.com/gontcharovd/introductory-call'});return false;"
-     style="background-color: #0066ff; 
-            color: white; 
-            padding: 12px 25px; 
-            border-radius: 25px; 
-            font-weight: bold; 
-            text-decoration: none; 
+     style="background-color: #0066ff;
+            color: white;
+            padding: 12px 25px;
+            border-radius: 25px;
+            font-weight: bold;
+            text-decoration: none;
             display: inline-block;
             font-size: 16px;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
             transition: all 0.3s ease;">
     Schedule a Call
-  </a>
+  </a>/
 </div>
 <!-- Calendly link widget end -->
 
 # My Availability is Limited
 
 Because of the intensive nature of these projects I can only take on a small number of clients each year. Schedule a Call now to secure your spot.
-
-***
