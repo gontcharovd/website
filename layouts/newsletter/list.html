@@ -4,16 +4,8 @@
 <div class="content">
     <h1>{{ .Title }}</h1>
 
-    <div class="entry-content">
-        <p>
-            Browse previous newsletters about SCADA data integration, industrial
-            automation, and Databricks.
-        </p>
-    </div>
-
     {{ $pages := where .Pages "Type" "newsletter" }} {{ $pages = where $pages
     "Params.hidden" "!=" true }} {{ if $pages }}
-    <h2>Latest Issues</h2>
 
     <div class="list">
         {{- range $pages.ByDate.Reverse }}
@@ -34,12 +26,6 @@
         {{- end }}
     </div>
     {{ end }}
-
-    <h2>Links</h2>
-
-    <div class="inline-links">
-        <span><a href="/newsletter/index.xml" target="_blank">RSS</a></span>
-    </div>
 </div>
 
 <style>

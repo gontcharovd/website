@@ -4,7 +4,7 @@ date: 2024-01-15T10:00:00+00:00
 draft: false
 issueno: "001"
 summary: "Welcome to my newsletter on SCADA data integration and industrial automation"
-tags: ["newsletter", "introduction", "scada", "databricks"]
+tags: []
 ---
 
 # Hello World
@@ -39,5 +39,5 @@ When designing your SCADA to Databricks pipeline, always implement proper error 
 
 Thanks for reading! I'd love to hear about your industrial data challenges. Reply to this email or reach out on [LinkedIn](https://www.linkedin.com/in/gontcharovd).
 
-Best regards,  
+Best regards,
 Denis Gontcharov

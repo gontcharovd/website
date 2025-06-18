@@ -1,6 +1,6 @@
 ---
-title: "Newsletter"
-description: "SCADA data integration and industrial automation insights"
+title: "Newsletter archive"
+description: "Datbricks insights"
 type: "newsletter"
 layout: "list"
 ---

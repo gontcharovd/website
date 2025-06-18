@@ -4,7 +4,7 @@ date: 2024-01-22T10:00:00+00:00
 draft: false
 issueno: "002"
 summary: "Step-by-step guide to connecting OPC-UA servers to Databricks for real-time industrial analytics"
-tags: ["newsletter", "opc-ua", "databricks", "integration", "tutorial"]
+tags:
 ---
 
 # OPC-UA to Databricks: A Complete Integration Guide
@@ -63,14 +63,14 @@ node = client.get_node("ns=2;i=1001")
 while True:
     value = node.get_value()
     timestamp = time.time()
-    
+
     data = {
         "sensor_id": "temp_001",
         "value": value,
         "timestamp": timestamp,
         "quality": "good"
     }
-    
+
     # Send to message broker
     send_to_databricks(json.dumps(data))
     time.sleep(1)
@@ -97,5 +97,5 @@ If you're planning an OPC-UA integration:
 
 Have questions about OPC-UA integration? I'm offering free 30-minute consultation calls this month. [Book here](mailto:denis@gontcharov.eu).
 
-Best regards,  
+Best regards,
 Denis Gontcharov
