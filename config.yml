@@ -130,9 +130,9 @@ menu:
       name: About
       url: /about/
       weight: 1
-    - identifier: Services
-      name: Services
-      url: /services/
+    # - identifier: Services
+    #   name: Services
+    #   url: /services/
       weight: 2
     - identifier: archives
       name: Archives
