@@ -2,10 +2,15 @@
 
 <div class="subscribe-form">
     <form
-        action="https://app.convertkit.com/forms/8199782/subscriptions"
+        action="https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions"
         method="post"
         class="newsletter-form"
     >
+        <input
+            name="success_url"
+            type="hidden"
+            value="https://gontcharov.eu/thank-you"
+        />
         <input name="utf8" type="hidden" value="✓" />
         <div class="input-group">
             <input
@@ -45,7 +50,8 @@
     .newsletter-form input[type="email"] {
         flex: 1;
         min-width: 250px;
-        padding: 0.75rem 1rem;
+        max-width: 350px;
+        padding: 0.5rem 1rem;
         border: 1px solid var(--border);
         border-radius: 6px;
         background: var(--theme);
@@ -60,8 +66,8 @@
     }
 
     .newsletter-form button {
-        padding: 0.75rem 1.5rem;
-        background: var(--tertiary);
+        padding: 0.5rem 1.5rem;
+        background: #478061;
         color: var(--theme);
         border: none;
         border-radius: 6px;
@@ -70,10 +76,11 @@
         cursor: pointer;
         transition: background-color 0.2s ease;
         white-space: nowrap;
+        min-width: 120px;
     }
 
     .newsletter-form button:hover {
-        background: var(--primary);
+        background: #3a6b52;
     }
 
     .privacy-notice {
