@@ -1,0 +1,61 @@
+{{- define "main" }}
+<div class="main-icon">＠</div>
+
+<div class="content">
+    <h1>{{ .Title }}</h1>
+
+    <div class="entry-content">
+        <p>
+            Browse previous newsletters about SCADA data integration, industrial
+            automation, and Databricks.
+        </p>
+    </div>
+
+    {{ $pages := where .Pages "Type" "newsletter" }} {{ $pages = where $pages
+    "Params.hidden" "!=" true }} {{ if $pages }}
+    <h2>Latest Issues</h2>
+
+    <div class="list">
+        {{- range $pages.ByDate.Reverse }}
+        <div class="item">
+            <div class="date">
+                {{- if not .Date.IsZero -}} {{ .Date | time.Format (default
+                "January 2, 2006" site.Params.DateFormat) }} {{- end }}
+            </div>
+            <div class="title">
+                <a href="{{ .Permalink }}"
+                    >{{- .Title }} {{- if .Draft }}<em>[Draft]</em>{{- end }}
+                    {{- if .Weight }}<em>[Pinned]</em>{{- end }}
+                </a>
+                {{ with .Param "issueno" }}<span class="issueno">#{{ . }}</span
+                >{{ end }}
+            </div>
+        </div>
+        {{- end }}
+    </div>
+    {{ end }}
+
+    <h2>Links</h2>
+
+    <div class="inline-links">
+        <span><a href="/newsletter/index.xml" target="_blank">RSS</a></span>
+    </div>
+</div>
+
+<style>
+    .newsletter-title a {
+        text-decoration: none;
+    }
+
+    .newsletter-title a:hover {
+        text-decoration: none;
+    }
+
+    .issueno {
+        color: var(--secondary);
+        font-weight: normal;
+        font-size: 0.9rem;
+        margin-left: 0.5rem;
+    }
+</style>
+{{ end }}

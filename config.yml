@@ -1,5 +1,5 @@
 baseURL: "https://gontcharov.eu"
-title: Denis Gontcharov
+title: Home
 theme: PaperModX
 
 enableRobotsTXT: true
@@ -75,12 +75,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Databricks for Industry"
+    Title: "Databricks Solutions for Industrial Data and AI"
     Content: |
 
-      Hi, I'm Denis Gontcharov.
+      **Hi, I'm Denis Gontcharov.**
 
-      I help industrial enterprises transfer OT data from SCADA to Databricks.
+      I help industrial enterprises get the most out of Databricks.
+
+      Databricks is a powerful platform for Spark. That doesn't mean it's always easy.
+
+      I'll send you daily insights to improve your understanding Spark and Databricks so that you may *Spark* transformation in your industrial data workflows.
 
   # socialIcons:
   #   - name: linkedin
@@ -126,10 +130,7 @@ menu:
       name: Services
       url: /services/
       weight: 10
-    - identifier: Newsletter
-      name: Newsletter
-      url: /newsletter/
-      weight: 15
+
     - identifier: About
       name: About
       url: /about/
