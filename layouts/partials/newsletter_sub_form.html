@@ -5,12 +5,8 @@
         action="https://app.convertkit.com/forms/8199782/subscriptions"
         method="post"
         class="newsletter-form"
+        id="newsletter-form"
     >
-        <input
-            name="success_url"
-            type="hidden"
-            value="https://gontcharov.eu/thank-you"
-        />
         <input name="utf8" type="hidden" value="✓" />
         <div class="input-group">
             <input
@@ -27,6 +23,34 @@
         </div>
     </form>
 </div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const form = document.getElementById("newsletter-form");
+
+        form.addEventListener("submit", function (e) {
+            e.preventDefault();
+
+            const formData = new FormData(form);
+
+            // Submit the form to ConvertKit
+            fetch(form.action, {
+                method: "POST",
+                body: formData,
+                mode: "no-cors",
+            })
+                .then(() => {
+                    // Redirect to thank you page after submission
+                    window.location.href = "https://gontcharov.eu/thank-you/";
+                })
+                .catch(() => {
+                    // Still redirect to thank you page even if there's an error
+                    // (because no-cors mode won't give us error details anyway)
+                    window.location.href = "https://gontcharov.eu/thank-you/";
+                });
+        });
+    });
+</script>
 
 <style>
     .subscribe-form {
