@@ -8,8 +8,6 @@ buildFuture: false
 buildExpired: false
 pygmentsUseClasses: true
 
-googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
@@ -87,24 +85,6 @@ params:
 
       I send daily insights to help you master Databricks and *Spark* innovation in your data work.
 
-  # socialIcons:
-  #   - name: linkedin
-  #     url: https://www.linkedin.com/in/gontcharovd
-  #   # - name: github
-  #   #   url: https://github.com/gontcharovd
-  #   - name: youtube
-  #     url: https://www.youtube.com/channel/UCcsI73uDkOCPINpFQ 5ARihQ
-  #   - name: email
-  #     url: mailto:denis@gontcharov.eu
-
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  #   yandex:
-  #     SiteVerificationTag: "XYZabc"
-
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
@@ -152,12 +132,3 @@ menu:
       name: Search
       url: /search/
       weight: 4
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    style: monokai
-    lineNos: false
-    noClasses: false

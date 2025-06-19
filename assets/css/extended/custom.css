@@ -1,0 +1,64 @@
+/* Custom link colors - override theme defaults with specificity */
+:root {
+    --link-color: var(--primary);
+    --link-hover-color: #cb3a56;
+    --link-underline-shadow: 0 1px 0 var(--link-color);
+    --link-hover-underline-color: #cb3a56;
+    --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+}
+
+/* Ensure dark mode also uses custom colors */
+.dark {
+    --link-color: var(--primary);
+    --link-hover-color: #cb3a56;
+    --link-underline-shadow: 0 1px 0 var(--link-color);
+    --link-hover-underline-color: #cb3a56;
+    --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+}
+
+/* Override specific link styles with higher specificity */
+body .post-content a {
+    color: var(--link-color);
+    box-shadow: var(--link-underline-shadow);
+}
+
+body .post-content a:hover {
+    color: var(--link-hover-color);
+    box-shadow: var(--link-hover-underline-shadow);
+}
+
+body .footer a:hover {
+    color: var(--link-hover-color);
+    box-shadow: var(--link-hover-underline-shadow);
+}
+
+body .inline-links a:hover {
+    color: var(--link-hover-color);
+    box-shadow: var(--link-hover-underline-shadow);
+}
+
+body .social-icons a:hover {
+    color: var(--link-hover-color);
+    box-shadow: var(--link-hover-underline-shadow);
+}
+
+body .post-entry:hover .entry-header h2 {
+    color: var(--link-hover-color);
+    box-shadow: var(--link-hover-underline-shadow);
+}
+
+/* Override code links */
+body .post-content a:hover code {
+    box-shadow:
+        0 -1px 0 var(--link-hover-underline-color) inset,
+        0 1px 0 var(--link-hover-underline-color);
+}
+
+/* Additional overrides for comprehensive coverage */
+body .comments .title .counter {
+    color: var(--link-hover-color);
+}
+
+body .post-content sup a {
+    color: var(--link-hover-color);
+}
