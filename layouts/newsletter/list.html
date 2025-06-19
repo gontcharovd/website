@@ -1,0 +1,47 @@
+{{- define "main" }}
+<div class="main-icon">＠</div>
+
+<div class="content">
+    <h1>{{ .Title }}</h1>
+
+    {{ $pages := where .Pages "Type" "newsletter" }} {{ $pages = where $pages
+    "Params.hidden" "!=" true }} {{ if $pages }}
+
+    <div class="list">
+        {{- range $pages.ByDate.Reverse }}
+        <div class="item">
+            <div class="date">
+                {{- if not .Date.IsZero -}} {{ .Date | time.Format (default
+                "January 2, 2006" site.Params.DateFormat) }} {{- end }}
+            </div>
+            <div class="title">
+                <a href="{{ .Permalink }}"
+                    >{{- .Title }} {{- if .Draft }}<em>[Draft]</em>{{- end }}
+                    {{- if .Weight }}<em>[Pinned]</em>{{- end }}
+                </a>
+                {{ with .Param "issueno" }}<span class="issueno">#{{ . }}</span
+                >{{ end }}
+            </div>
+        </div>
+        {{- end }}
+    </div>
+    {{ end }}
+</div>
+
+<style>
+    .newsletter-title a {
+        text-decoration: none;
+    }
+
+    .newsletter-title a:hover {
+        text-decoration: none;
+    }
+
+    .issueno {
+        color: var(--secondary);
+        font-weight: normal;
+        font-size: 0.9rem;
+        margin-left: 0.5rem;
+    }
+</style>
+{{ end }}
