@@ -8,7 +8,7 @@ buildFuture: false
 buildExpired: false
 pygmentsUseClasses: true
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -28,7 +28,7 @@ params:
   mainSections: ["posts"]
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -76,16 +76,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Databricks Solutions for Industrial Data and AI"
+    Title: "Databricks Solutions for Industrial Data"
     Content: |
 
       **Hi, I'm Denis Gontcharov.**
 
       I help industrial enterprises get the most out of Databricks.
 
-      Databricks is a powerful platform for Spark. That doesn't mean it's always easy.
+      Databricks hides most of Spark's complexity. That doesn't mean it's always easy.
 
-      I'll send you daily insights to improve your understanding Spark and Databricks so that you may *Spark* transformation in your industrial data workflows.
+      I'll send you daily insights about Databricks to help you *Spark* digital transformation in your work.
 
   # socialIcons:
   #   - name: linkedin
@@ -97,13 +97,13 @@ params:
   #   - name: email
   #     url: mailto:denis@gontcharov.eu
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
