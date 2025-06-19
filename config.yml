@@ -123,7 +123,7 @@ menu:
     # - identifier: Services
     #   name: Services
     #   url: /services/
-      weight: 2
+    #   weight: 2
     - identifier: archives
       name: Archives
       url: /archives/
@@ -132,3 +132,12 @@ menu:
       name: Search
       url: /search/
       weight: 4
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
+    lineNos: false
+    noClasses: false

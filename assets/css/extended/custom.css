@@ -1,4 +1,3 @@
-/* Custom link colors - override theme defaults with specificity */
 :root {
     --link-color: var(--primary);
     --link-hover-color: #cb3a56;
