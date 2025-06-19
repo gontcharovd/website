@@ -120,13 +120,13 @@ menu:
       name: About
       url: /about/
       weight: 1
-    # - identifier: Services
-    #   name: Services
-    #   url: /services/
-    #   weight: 2
-    - identifier: archives
-      name: Archives
-      url: /archives/
+    - identifier: Newsletter
+      name: Newsletter
+      url: /newsletter/
+      weight: 2
+    - identifier: media
+      name: Media
+      url: /media/
       weight: 3
     - identifier: search
       name: Search
