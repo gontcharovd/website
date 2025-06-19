@@ -31,7 +31,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -45,6 +44,7 @@ params:
   showtoc: true
   tocopen: true
   TocSide: "right"
+  EnableInstantClick: true
 
   assets:
     # disableFingerprinting: true
