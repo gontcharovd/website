@@ -1,5 +1,6 @@
 ---
 title: "Services"
+ShowToc: false
 ---
 
 I help industrial enterprises transfer OT data from SCADA to Databricks.
