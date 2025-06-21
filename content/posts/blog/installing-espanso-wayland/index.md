@@ -5,7 +5,6 @@ categories:
  - Blog
 tags: 
  - Linux
- - espanso
 ---
 
 I'm a big fan of text expanders, [espanso](https://espanso.org/) being my favorite one. As Xorg is no longer maintained, I recently switched to Wayland and the Gnome desktop environment.

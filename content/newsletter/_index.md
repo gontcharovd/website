@@ -1,8 +1,8 @@
 ---
 title: Newsletter
-subtitle: Databricks insights and updates
+subtitle: Databricks for Energy & Utilities
 description: |
-  Receive a daily dose of Databricks insights, tips, and industry news.
+  I send daily insights about Databricks in energy & utilities to help you *Spark* innovation in your data projects.
 type: newsletter
 cascade:
   - _target:

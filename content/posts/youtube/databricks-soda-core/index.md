@@ -5,6 +5,7 @@ categories:
  - Video
 tags: 
  - Databricks
+ - Data Quality
  - Soda
 ---
 
