@@ -19,14 +19,14 @@ pagination:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "I help industrial enterprises transfer OT data from SCADA to Databricks"
-  description: "I help industrial enterprises transfer OT data from SCADA to Databricks"
+  title: "Denis Gontcharov"
+  description: " I'm a data engineer who helps digital product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks."
   keywords: [Denis, Gontcharov, Databricks]
   author: Denis Gontcharov
   mainSections: ["posts"]
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2006-02-01"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: false
@@ -74,16 +74,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Databricks Solutions for Industrial Data"
+    Title: "Databricks for Energy & Utilities"
     Content: |
 
       **Hi, I'm Denis Gontcharov.**
 
-      I help industrial enterprises get the most out of Databricks.
+      I'm a data engineer who helps digital product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks.
 
-      Databricks hides most of Spark's complexity - that doesn't mean it's always easy.
+      Working with data in Databricks is easy. Getting this data into Databricks is hard.
 
-      I send daily insights to help you master Databricks and *Spark* innovation in your data work.
+      I send daily insights about Databricks in energy & renewables to help you *Spark* innovation in your data projects.
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -120,9 +120,9 @@ menu:
       name: About
       url: /about/
       weight: 1
-    - identifier: Services
-      name: Services
-      url: /services/
+    # - identifier: Services
+    #   name: Services
+    #   url: /services/
       weight: 2
     - identifier: Newsletter
       name: Newsletter
