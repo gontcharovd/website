@@ -10,7 +10,7 @@ I was always fascinated by transformation. Especially of matter and energy. My l
 
 Since then, I've worked at several industrial plants. Controlling a continuous process, be it an aluminium smelter, gas distribution network, or wind mill farm, requires careful manipulation of data. But, unlike matter and energy, I could manipulate data with the tips of my fingers from the comfort of my chair, transforming raw data into fascinating insights. And so my love for data was born.
 
-Today, I work as an independent data engineer helping digital product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks. 
+Today, I work as an independent data engineer helping product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks. 
 
 ![Denis Gontcharov](me.jpg)
 *Databricks Data & AI Summit, San Francisco CA, June 2025*

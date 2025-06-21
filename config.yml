@@ -20,7 +20,7 @@ pagination:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Denis Gontcharov"
-  description: " I'm a data engineer who helps digital product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks."
+  description: " I'm a data engineer who helps product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks."
   keywords: [Denis, Gontcharov, Databricks]
   author: Denis Gontcharov
   mainSections: ["posts"]
@@ -79,7 +79,7 @@ params:
 
       **Hi, I'm Denis Gontcharov.**
 
-      I'm a data engineer who helps digital product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks.
+      I'm a data engineer who helps product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks.
 
       Working with data in Databricks is easy. Getting this data into Databricks is hard.
 
