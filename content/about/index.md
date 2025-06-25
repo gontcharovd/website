@@ -2,15 +2,19 @@
 title: "About"
 ---
 
-I'm Denis Gontcharov. Since the start of my career in 2018, I've occupied myself with processing industrial time series data.
+I'm Denis Gontcharov, and I bridge the gap between operational technology and modern data platforms.
 
-I believe in Databricks as the unifying platform for large industrial time series data, combining my favorite technologies neatly in one place: Spark ran by SQL, R, and Python, orchestrated by Airflow, and hosted on Azure cloud.
+**With over 5 years of experience** with enterprise-scale industrial time series data, I understand that energy & utilities data isn't just about numbers: it's about keeping the lights on, turbines spinning, and operations running safely within European regulations.
 
-I was always fascinated by transformation. Especially of matter and energy. My love for chemistry led me to major in materials with a minor in chemical engineering. In my first job as a process engineer at an aluminium smelter, I experienced first hand how a dry white powder transforms into liquid metal.
+**As a data engineer, I bring deep technical expertise.** I breathe SQL and write Spark applications in Python, R, and Scala. I'm certified in both Azure and Databricks, and I've worked extensively with industrial control systems, interfacing with AVEVA PI and Apache Kafka to extract insights from complex operational environments. While my passion lies in data pipelines and data quality testing, I bring broader technical depth, including hands-on ML and DevOps.
 
-Since then, I've worked at several industrial plants. Controlling a continuous process, be it an aluminium smelter, gas distribution network, or wind mill farm, requires careful manipulation of data. But, unlike matter and energy, I could manipulate data with the tips of my fingers from the comfort of my chair, transforming raw data into fascinating insights. And so my love for data was born.
+**What sets me apart is my industrial background.** I spent three years in energy-intensive aluminum manufacturing, where I learned firsthand that OT has different objectives than IT. Production is king. This experience taught me to think like an operator, not just a developer.
 
-Today, I work as an independent data engineer helping product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks. 
+**I'm fluent in English, French, Dutch, and German,** allowing me to communicate clearly with site personnel across European markets and understand local regulatory contexts.
+
+**When I'm not fixing data pipelines,** you'll find me troubleshooting arcane errors in Void Linux, handwriting in a European coffee shop, or pumping iron.
+
+Today, I work as an independent data engineer helping product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks, so they can build reliable data products for operational insights and regulatory compliance.
 
 ![Denis Gontcharov](me.jpg)
 *Databricks Data & AI Summit, San Francisco CA, June 2025*
