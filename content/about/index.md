@@ -14,7 +14,7 @@ I'm Denis Gontcharov, and I bridge the gap between operational technology and mo
 
 **When I'm not fixing data pipelines,** you'll find me troubleshooting arcane errors in Void Linux, handwriting in a European coffee shop, or pumping iron.
 
-Today, I work as an independent data engineer helping product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks, so they can build reliable data products for operational insights and regulatory compliance.
+**Today**, I work as an independent data engineer helping product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks, so they can build reliable data products for operational insights and regulatory compliance.
 
 ![Denis Gontcharov](me.jpg)
 *Databricks Data & AI Summit, San Francisco CA, June 2025*
