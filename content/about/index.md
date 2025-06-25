@@ -4,7 +4,7 @@ title: "About"
 
 I'm Denis Gontcharov, and I bridge the gap between operational technology and modern data platforms.
 
-**With over 5 years of experience** with enterprise-scale industrial time series data, I understand that energy & utilities data isn't just about numbers: it's about keeping the lights on, turbines spinning, and operations running safely within European regulations.
+**With over 5 years of experience** with enterprise-scale industrial time series data, I understand that energy & utilities data isn't just about numbers: it's about keeping the lights on, turbines spinning, and operations running safely, and within stringent European regulations.
 
 **As a data engineer, I bring deep technical expertise.** I breathe SQL and write Spark applications in Python, R, and Scala. I'm certified in both Azure and Databricks, and I've worked extensively with industrial control systems, interfacing with AVEVA PI and Apache Kafka to extract insights from complex operational environments. While my passion lies in data pipelines and data quality testing, I bring broader technical depth, including hands-on ML and DevOps.
 
