@@ -1,7 +1,24 @@
 ---
-title: "Databricks Asset Bundle Azure Devops Pipelines"
-date: 2025-06-30T11:43:12+02:00
+title: "Deploying Databricks Asset Bundles with GitHub Actions"
+date: 2025-07-06T11:43:12+02:00
 draft: true
+---
+
+Scope:
+* Create DAB deploy to dev, test, and prod
+* Set up GitHub Actions pipeline
+* Simple notebook task
+* Deploy to one (free) environment
+
+Resources:
+* Link to GitHub repo
+
+
+Steps:
+
+1. Set up GitHub Repo
+2. Create DAB
+
 ---
 
 # YAML file parametrization
