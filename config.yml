@@ -81,7 +81,7 @@ params:
 
       I'm a data engineer who helps product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks, so they can build reliable data products for operational insights and regulatory compliance.
 
-      Working with data in Databricks is easy. Getting this data into Databricks is hard. I send daily insights about Databricks in energy & renewables to help you *Spark* innovation in your data products. Yes, it's daily. And, yes, people stay subscribed.
+      **Learn Spark the slow way.** I send a daily newsletter about my Spark learnings. Follow along as I fumble through Spark's twisted labyrinth and share all the bruises.
 
   cover:
     hidden: true # hide everywhere but not in structured data
