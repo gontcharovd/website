@@ -1,6 +1,6 @@
 ---
 title: "Deploying a Databricks Asset Bundle with Azure DevOps Pipelines"
-date: 2025-07-06T11:43:12+02:00
+date: 2025-07-22T11:43:12+02:00
 ---
 
 # Objectives
