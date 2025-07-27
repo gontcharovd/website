@@ -1,6 +1,11 @@
 ---
 title: "🎥 Deploying a Databricks Asset Bundle with Azure DevOps Pipelines"
 date: 2025-07-22T11:43:12+02:00
+categories: 
+ - Video
+tags: 
+ - Databricks Asset Bundle
+ - Azure
 ---
 
 # Video
