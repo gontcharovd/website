@@ -113,7 +113,7 @@ Now that we have defined the DAB and authorized Databricks to access our Azure D
 After installation, login and create a profile "free". Replace the `host` URL with the correct link to your Databricks (free) workspace.
 
 ```bash
-databricks auth login --profile free. Config: host=https://dbc-e667f434-e97e.cloud.databricks.com, profile=free
+databricks auth login
 ```
 
 Let's validate the bundle:
