@@ -1,5 +1,5 @@
 ---
-title: "🎧 Industrial Data Quality Podcast E2: My Six Years of Working and Freelancing in Data"
+title: "🎧 Watts in Your Data Podcast E2: My Six Years of Working and Freelancing in Data"
 date: 2025-04-18T13:56:17+02:00
 categories: 
  - Podcast

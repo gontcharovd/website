@@ -1,5 +1,5 @@
 ---
-title: "🎧 Industrial Data Quality Podcast E1: Introduction"
+title: "🎧 Watts in Your Data Podcast E1: Introduction"
 date: 2025-04-01T16:08:03+02:00
 categories: 
  - Podcast

@@ -1,5 +1,5 @@
 ---
-title: "🎧 Industrial Data Quality Podcast E3: Industrial Time-Series Data Quality and Reliability with Timeseer"
+title: "🎧 Watts in Your Data Podcast E3: Industrial Time-Series Data Quality and Reliability with Timeseer"
 date: 2025-05-06T11:28:43+02:00
 categories: 
  - Podcast
@@ -10,7 +10,7 @@ tags:
 
 Data good enough for operations is not necessarily analytics-ready.
 
-Exactly one month ago I published the first episode of my Industrial Data Quality Podcast. In my opinion, a topic of critical importance that is all too often overlooked, especially with all the buzz around AI.
+Exactly one month ago I published the first episode of my Watts in Your Data Podcast. In my opinion, a topic of critical importance that is all too often overlooked, especially with all the buzz around AI.
 
 In the most recent episode, I had the pleasure of inviting guest speaker Thomas Dhollander, co-founder of Timeseer.AI. Together we explored critical challenges in industrial time series data reliability and observability.
 

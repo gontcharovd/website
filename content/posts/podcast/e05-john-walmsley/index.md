@@ -1,5 +1,5 @@
 ---
-title: "🎧 Industrial Data Quality Podcast E5: Concrete AI Applications in Heavy Industry with John Walmsley"
+title: "🎧 Watts in Your Data Podcast E5: Concrete AI Applications in Heavy Industry with John Walmsley"
 date: 2025-06-03T01:52:39+02:00
 categories: 
  - Podcast
@@ -9,7 +9,7 @@ tags:
  - AI
 ---
 
-In this episode of the Industrial Data Quality Podcast, I talk with with John Walmsley of Aluminate Technologies, about what AI actually does in heavy industry today, cutting through the hype to explore real applications and challenges.
+In this episode of the Watts in Your Data Podcast, I talk with with John Walmsley of Aluminate Technologies, about what AI actually does in heavy industry today, cutting through the hype to explore real applications and challenges.
 
 John brings experience from semiconductors to medical devices to AI in heavy industry. The conversation covers three levels of industrial AI: continuous monitoring, multi-sensor analysis, and autonomous optimization. Using aluminum industry examples, we explore why AI projects get stuck in pilot phase and what it takes to scale solutions enterprise-wide.
 

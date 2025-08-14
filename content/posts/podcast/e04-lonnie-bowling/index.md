@@ -1,5 +1,5 @@
 ---
-title: "🎧 Industrial Data Quality Podcast E4: Evolution of OT Data Integration with Lonnie Bowling"
+title: "🎧 Watts in Your Data Podcast E4: Evolution of OT Data Integration with Lonnie Bowling"
 date: 2025-05-20T10:56:33+02:00
 categories: 
  - Podcast
