@@ -8,15 +8,16 @@
     <!-- Newsletter Signup Form -->
     <div class="home-newsletter-signup">
         <form
-            action="https://app.convertkit.com/forms/8199782/subscriptions"
+            action="https://buttondown.com/api/emails/embed-subscribe/gontcharov"
             method="post"
+            target="popupwindow"
+            onsubmit="window.open('https://buttondown.com/gontcharov', 'popupwindow')"
             class="home-newsletter-form"
         >
-            <input name="utf8" type="hidden" value="✓" />
             <div class="form-group">
                 <input
                     type="email"
-                    name="email_address"
+                    name="email"
                     placeholder="Enter your email address"
                     required
                     aria-label="Email address"
