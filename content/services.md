@@ -3,18 +3,34 @@ title: "Services"
 ShowToc: false
 ---
 
-# Data Quality Framework Implementation
+# SCADA-to-Databricks Platform Rollout Advisory
 
-You can't trust your operational data. Sensor drift, missing timestamps, and SCADA inconsistencies mean your team questions every insight. Worse, regulators require accurate reporting—bad data quality creates compliance risks and audit failures.
+The Problem: Your company invested in Databricks to centralize operational data from SCADA systems across multiple sites, but rollout is stalling. Each plant has different SCADA vendors and local data workflows, teams resist changing their reporting processes, and coordination across IT, OT, and Business is chaotic.
 
-Complete confidence in your data. When dashboards show turbine performance or grid metrics, your team trusts the numbers. Regulatory reports pass audits without question.
+The Outcome: Successful Databricks adoption across all sites with operational data flowing reliably, clear governance for SCADA integrations, minimal disruption to plant operations, and buy-in from local teams.
 
-I build data quality frameworks using Soda Core that continuously monitor your time series streams. The system automatically detects anomalies, validates readings, and flags issues before they impact decisions. Deployed with Databricks Asset Bundles for seamless scaling.
+How I Help: I coordinate multi-site rollouts of Databricks platforms across European industrial operations—managing stakeholder alignment between IT and operational technology teams, establishing escalation processes for data connectivity issues, and bridging the gap between centralized data strategy and local SCADA reality. Fluent support in English, German, French, Dutch, and Russian.
 
-# Automated Data Pipeline Troubleshooting
+# Requirements & Business Scoping
 
-It's 3 AM—wind turbine data stopped flowing. Your engineer manually investigates network issues, SCADA problems, database connectivity. Hours of lost production data and expensive troubleshooting calls.
+The Problem: Your platform vendor promised a solution, but nobody documented what your business actually needs. IT builds what they think operations wants, operations complains it doesn't work, and the project burns budget without delivering value.
 
-Pipeline issues detected and resolved automatically, often before your team knows there was a problem. No more midnight calls, no more lost data.
+The Outcome: Clear, documented requirements that align technical capabilities with actual business processes, before expensive implementation begins.
 
-I develop intelligent monitoring systems that watch your data pipelines. When sensors go silent, the system runs diagnostics, attempts common fixes, and provides detailed reports for issues requiring human intervention.
+How I Help: I facilitate requirements gathering across business stakeholders, translate operational needs into technical specifications, and define realistic project scope that avoids scope creep and wasted investment.
+
+# Operational Data Reliability
+
+The Problem: Critical reports are delayed because of data issues at remote sites. Network connectivity problems, SCADA inconsistencies, or sensor drift create gaps, and by the time anyone notices, a 10-minute fix has cost days of delay and regulatory risk.
+
+The Outcome: Reliable reporting across all sites with rapid issue detection and clear escalation processes. Your team trusts the data, regulators get accurate reports, and problems get resolved in hours, not days.
+
+How I Help: I design governance frameworks and cross-team coordination processes that ensure SCADA data reliability across distributed operations. Not by building technical solutions, but by establishing the organizational processes that make technical solutions actually work.
+
+# Migration Risk Assessment
+
+The Problem: Your company is migrating from legacy systems to a modern data platform. The technical architecture looks good on paper, but you're worried about what you don't know: hidden dependencies, organizational resistance, or costly mistakes during transition.
+
+The Outcome: A realistic migration plan that identifies risks before they become expensive problems, with clear mitigation strategies and stakeholder buy-in.
+
+How I Help: I audit migration plans from both technical and organizational perspectives, identify gaps vendors won't tell you about, and help you avoid the mistakes that derail most platform migrations.
