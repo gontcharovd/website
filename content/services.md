@@ -16,7 +16,7 @@ Imagine having a clear map of where which data lies. You'll know what data you h
 
 I will map out your company's internal data systems and identify the relevant data sources. I will identify relevant data required for your use case. For this data, I will objectively evaluate the data quality and present you with a clearly interpretable metric.
 
-# 2. SCADA-to-Databricks Integration Advisory
+# 2. SCADA-to-Databricks Integration
 
 Your company invested in Databricks to centralize operational data from SCADA systems across multiple sites, but rollout is stalling. Each plant has different SCADA vendors and local data workflows, local teams resist changing their processes, and collaboration between IT, OT, and Business is sluggish.
 
