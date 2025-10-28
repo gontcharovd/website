@@ -3,34 +3,34 @@ title: "Services"
 ShowToc: false
 ---
 
-# SCADA-to-Databricks Platform Rollout Advisory
+# Data Quality Assessment
 
-The Problem: Your company invested in Databricks to centralize operational data from SCADA systems across multiple sites, but rollout is stalling. Each plant has different SCADA vendors and local data workflows, teams resist changing their reporting processes, and coordination across IT, OT, and Business is chaotic.
+Your company plans a digital project whose outcome depends on the quality of your internal data. This data lies scattered across many different systems. You're unsure if some data is missing, or whether available data hasn't got any errors. You feel your internal team lacks the competences to evaluate the risk effectively.
 
-The Outcome: Successful Databricks adoption across all sites with operational data flowing reliably, clear governance for SCADA integrations, minimal disruption to plant operations, and buy-in from local teams.
+Imagine having a clear map of where which data lies. You'll know what data you have, and more importantly, don't have. Have a clear score about your company's data quality. You'll have confidence in the outcome of your project.
 
-How I Help: I coordinate multi-site rollouts of Databricks platforms across European industrial operations—managing stakeholder alignment between IT and operational technology teams, establishing escalation processes for data connectivity issues, and bridging the gap between centralized data strategy and local SCADA reality. Fluent support in English, German, French, Dutch, and Russian.
+I will map out your company's internal data systems and identify the relevant data sources. I will identify relevant data required for your use case. For this data, I will objectively evaluate the data quality and present you with a clearly interpretable metric.
+
+# SCADA-to-Databricks Integration Advisory
+
+Your company invested in Databricks to centralize operational data from SCADA systems across multiple sites, but rollout is stalling. Each plant has different SCADA vendors and local data workflows, local teams resist changing their processes, and collaboration between IT, OT, and Business is sluggish.
+
+Imagine having increasing Databricks adoption across all sites with operational time series data flowing reliably. Have clear ownership of common problems in your SCADA data pipelines systems leading to minimal data disruptions.
+
+I coordinate across your digital teams building your Databricks platform, your business stakeholders, and your local OT personnel to align everyone toward a common goal. I help will establishing clear escalation processes for data issues bridging the gap between centralized data strategy and local SCADA reality. Local plant personnel often don't speak fluent English. I can support in German, French, Dutch, and Russian.
 
 # Requirements & Business Scoping
 
-The Problem: Your platform vendor promised a solution, but nobody documented what your business actually needs. IT builds what they think operations wants, operations complains it doesn't work, and the project burns budget without delivering value.
+Your platform vendor promised a solution, but nobody documented what your business actually needs. IT builds what they think operations wants, operations complains it doesn't work, and the project burns budget without delivering value.
 
-The Outcome: Clear, documented requirements that align technical capabilities with actual business processes, before expensive implementation begins.
+Imagine having clear, documented requirements that align technical capabilities with actual business processes, before expensive implementation begins.
 
-How I Help: I facilitate requirements gathering across business stakeholders, translate operational needs into technical specifications, and define realistic project scope that avoids scope creep and wasted investment.
-
-# Operational Data Reliability
-
-The Problem: Critical reports are delayed because of data issues at remote sites. Network connectivity problems, SCADA inconsistencies, or sensor drift create gaps, and by the time anyone notices, a 10-minute fix has cost days of delay and regulatory risk.
-
-The Outcome: Reliable reporting across all sites with rapid issue detection and clear escalation processes. Your team trusts the data, regulators get accurate reports, and problems get resolved in hours, not days.
-
-How I Help: I design governance frameworks and cross-team coordination processes that ensure SCADA data reliability across distributed operations. Not by building technical solutions, but by establishing the organizational processes that make technical solutions actually work.
+I facilitate requirements gathering across business stakeholders, translate operational needs into technical specifications, and define realistic project scope that avoids scope creep and wasted investment. You will receive a comprehensive technical document containing the business scope and requirements.
 
 # Migration Risk Assessment
 
-The Problem: Your company is migrating from legacy systems to a modern data platform. The technical architecture looks good on paper, but you're worried about what you don't know: hidden dependencies, organizational resistance, or costly mistakes during transition.
+Your company is migrating from legacy systems to a modern data platform. The technical architecture looks good on paper, but you're worried about what you don't know: hidden dependencies, organizational resistance, or costly mistakes during transition.
 
-The Outcome: A realistic migration plan that identifies risks before they become expensive problems, with clear mitigation strategies and stakeholder buy-in.
+Imagine having a clear view of the shortcomings of your internal team's capabilities and company data. Have a realistic migration plan that identifies risks before they become expensive problems, with clear mitigation strategies.
 
-How I Help: I audit migration plans from both technical and organizational perspectives, identify gaps vendors won't tell you about, and help you avoid the mistakes that derail most platform migrations.
+I audit your current migration plan from both technical and organizational perspectives, identify gaps vendors won't tell you about, and help you avoid the mistakes that derail most platform migrations. I will deliver you a clear and neutral assessment with no conflict of interest.
