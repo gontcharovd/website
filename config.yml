@@ -20,7 +20,7 @@ pagination:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Denis Gontcharov"
-  description: "I'm a data engineer who helps product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks so they can build reliable data products for operational insights and regulatory compliance."
+  description: "I'm a data engineer who helps product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks."
   keywords: [Denis, Gontcharov, Databricks]
   author: Denis Gontcharov
   mainSections: ["posts"]
@@ -81,7 +81,7 @@ params:
 
       I'm a data engineer who helps product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks, so they can build reliable data products for operational insights and regulatory compliance.
 
-      **Learn Spark the slow way.** I send a newsletter whenever I learn something new in Spark or Databricks. Follow along as I fumble through Spark's twisted labyrinth and share all the bruises.
+      I send a daily newsletter whenever I learn something new about leveraging Spark or Databricks for industrial time series data.
 
   cover:
     hidden: true # hide everywhere but not in structured data

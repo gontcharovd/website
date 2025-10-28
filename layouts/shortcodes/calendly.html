@@ -1,0 +1,44 @@
+{{/* Calendly meeting button shortcode */}}
+
+<div class="calendly-button-container">
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/gontcharovd/introductory-call'});return false;" class="calendly-button">Book a Call</a>
+</div>
+
+<style>
+    .calendly-button-container {
+        margin: 2rem 0;
+        text-align: center;
+    }
+
+    .calendly-button {
+        display: inline-block;
+        padding: 0.5rem 1.5rem;
+        background: #cb3a56;
+        color: var(--theme);
+        border: none;
+        border-radius: 6px;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+        white-space: nowrap;
+        min-width: 120px;
+        text-decoration: none;
+        text-align: center;
+    }
+
+    .calendly-button:hover {
+        background: #a53248;
+        color: var(--theme);
+        text-decoration: none;
+    }
+
+    @media (max-width: 600px) {
+        .calendly-button {
+            width: 100%;
+            display: block;
+        }
+    }
+</style>
