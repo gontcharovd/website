@@ -43,7 +43,7 @@ I audit your current migration plan from both technical and organizational persp
 {{< calendly >}}
 *A low pressure call without any commitments to see if we're a good fit.*
 
-# Nice things other said about me
+# Nice Things Others Said About Me
 
 > Denis is a very gifted Data Engineer, having the innate understanding of data in the space of manufacturing. I had the opportunity to work with Denis for a year at Novelis and during this brief time he had left an impact within the team.
 
