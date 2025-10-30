@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I'm Denis Gontcharov, and I bridge the gap between operational technology and modern data platforms.
+I'm Denis Gontcharov, and I bridge the gap between Operational Technology (OT) and modern data platforms. I focus primarily on ingesting time series data from industrial SCADA systems into Azure Databricks.
 
 **With over 5 years of experience** with enterprise-scale industrial time series data, I understand that energy & utilities data isn't just about numbers: it's about keeping the lights on, turbines spinning, and operations running safely, and within stringent European regulations.
 
@@ -10,9 +10,9 @@ I'm Denis Gontcharov, and I bridge the gap between operational technology and mo
 
 **What sets me apart is my industrial background.** I have a major in materials and minor in chemical engineering and spent three years in energy-intensive aluminum manufacturing, where I learned firsthand that OT has different objectives than IT. Production is king. This experience taught me to think like an operator, not just a developer.
 
-**I'm fluent in English, French, Dutch, and German,** allowing me to communicate clearly with site personnel across European markets and understand local regulatory contexts.
+**I'm fluent in English, French, Dutch, German, and Russian** allowing me to communicate clearly with site personnel across European markets and understand local regulatory contexts.
 
-**When I'm not fixing data pipelines,** you'll find me troubleshooting arcane errors in Void Linux, handwriting in a European coffee shop, or pumping iron.
+**When I'm not fixing data pipelines,** you'll find me troubleshooting arcane errors in Void Linux, handwriting in a European coffee shop, or pumping iron at the gym.
 
 **Today**, I work as an independent data engineer helping product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks, so they can build reliable data products for operational insights and regulatory compliance.
 
