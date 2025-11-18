@@ -1,5 +1,5 @@
 ---
-title: "🎧 Watts in Your Data Podcast E7: Datatude with Jim Gavigan"
+title: "🎥 Watts in Your Data Podcast E7: Datatude with Jim Gavigan"
 date: 2025-11-04T17:16:58+01:00
 categories: 
  - Podcast
@@ -9,6 +9,8 @@ tags:
 ---
 
 In this episode, Denis sits down with Jim Gavigan, founder of Industrial Insight, to discuss Datatude, a framework for measuring your organization's readiness to leverage industrial data effectively.
+
+{{< youtube uL8asFIKxLo  >}}
 
 # About the Guest: 
 
