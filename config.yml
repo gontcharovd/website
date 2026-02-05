@@ -81,7 +81,7 @@ params:
 
       I'm a data engineer who helps product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks, so they can build reliable data products for operational insights and regulatory compliance.
 
-      I send a daily newsletter whenever I learn something new about leveraging Spark or Databricks for industrial time series data.
+      I write a newsletter about transitioning from engineering into tech sales at Databricks.
 
   cover:
     hidden: true # hide everywhere but not in structured data

@@ -2,7 +2,7 @@
 title: Newsletter
 subtitle: Databricks for Energy & Utilities
 description: |
-  I send a daily newsletter whenever I learn something new about leveraging Spark or Databricks for industrial time series data.
+    I write a newsletter about transitioning from engineering into tech sales at Databricks..
 type: newsletter
 cascade:
   - _target:
