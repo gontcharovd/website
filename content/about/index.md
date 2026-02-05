@@ -2,19 +2,13 @@
 title: "About"
 ---
 
-I'm Denis Gontcharov, and I bridge the gap between Operational Technology (OT) and modern data platforms. I focus primarily on ingesting time series data from industrial SCADA systems into Azure Databricks.
+I'm Denis Gontcharov. I work as a Business Development Representative at Databricks in Amsterdam.
 
-**With over 5 years of experience** with enterprise-scale industrial time series data, I understand that energy & utilities data isn't just about numbers: it's about keeping the lights on, turbines spinning, and operations running safely, and within stringent European regulations.
+Before joining Databricks I was as independent data engineer helping data product owners in manufacturing and energy with ingesting time series data from SCADA systems into Azure Databricks. I've worked over six years with industrial data and control systems before transitioning into my current sales role. I hold a degree in Materials Engineering from KU Leuven in Belgium.
 
-**As a data engineer, I bring deep technical expertise.** I breathe SQL and write Spark applications in Python, R, and Scala. I'm certified in both Azure and Databricks, and I've worked extensively with industrial control systems, interfacing with AVEVA PI and Apache Kafka to extract insights from complex operational environments. While my passion lies in data pipelines and data quality testing, I bring broader technical depth, including hands-on ML and DevOps.
+Outside of work, my greatest passion are European languages. I'm native in Dutch and Russian and fluent in English, French, and German. I no longer actively develop software, but to scratch my nerdy itch I still explore every new Databricks feature and play with my Void Linux configuration.
 
-**What sets me apart is my industrial background.** I have a major in materials and minor in chemical engineering and spent three years in energy-intensive aluminum manufacturing, where I learned firsthand that OT has different objectives than IT. Production is king. This experience taught me to think like an operator, not just a developer.
-
-**I'm fluent in English, French, Dutch, German, and Russian** allowing me to communicate clearly with site personnel across European markets and understand local regulatory contexts.
-
-**When I'm not fixing data pipelines,** you'll find me troubleshooting arcane errors in Void Linux, handwriting in a European coffee shop, or pumping iron at the gym.
-
-**Today**, I work as an independent data engineer helping product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks, so they can build reliable data products for operational insights and regulatory compliance.
+On this website you will learn more about what drives me.
 
 ![Denis Gontcharov](me.jpg)
 *Databricks Data & AI Summit, San Francisco CA, June 2025*
