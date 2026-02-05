@@ -1,6 +1,6 @@
 ---
-title: "Media"
+title: "Podcast"
 layout: "archives"
-url: "/media/"
-summary: media
+url: "/podcast/"
+summary: podcast
 ---
