@@ -74,14 +74,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Databricks for Energy & Utilities"
+    Title: "Tech Sales at Databricks"
     Content: |
 
       **Hi, I'm Denis Gontcharov.**
 
-      I'm a data engineer who helps product owners in energy & utilities ingest time series data from legacy SCADA systems into Azure Databricks, so they can build reliable data products for operational insights and regulatory compliance.
-
-      I write a newsletter about transitioning from engineering into tech sales at Databricks.
+      I work as a Business Development Representative at Databricks in Amsterdam. I write a newsletter about transitioning from engineering into tech sales at Databricks.
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -118,22 +116,18 @@ menu:
       name: About
       url: /about/
       weight: 1
-    - identifier: Services
-      name: Services
-      url: /services/
-      weight: 2
     - identifier: Newsletter
       name: Newsletter
       url: /newsletter/
+      weight: 2
+    - identifier: podcast
+      name: Podcast
+      url: /podcast/
       weight: 3
-    - identifier: media
-      name: Media
-      url: /media/
-      weight: 4
     - identifier: search
       name: Search
       url: /search/
-      weight: 5
+      weight: 4
 
 markup:
   goldmark:
