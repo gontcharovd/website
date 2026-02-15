@@ -120,9 +120,9 @@ menu:
       name: Newsletter
       url: /newsletter/
       weight: 2
-    - identifier: podcast
-      name: Podcast
-      url: /podcast/
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 3
     - identifier: search
       name: Search
