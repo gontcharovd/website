@@ -1,6 +1,6 @@
 ---
 title: Newsletter
-subtitle: Databricks for Energy & Utilities
+subtitle: Tech Sales at Databricks
 description: |
     I write a newsletter about transitioning from engineering into tech sales at Databricks.
 type: newsletter
