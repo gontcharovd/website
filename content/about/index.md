@@ -34,4 +34,5 @@ On this website you will learn more about what drives me. I write a newsletter a
 <br>
 
 > Denis is a sharp and talented data engineer with a strong entrepreneurial spirit. His ability to combine technical expertise with forward-thinking solutions makes him a valuable collaborator. It has been a pleasure working with him, and I look forward to seeing where his talents take him next.
+
 — [Dr. Martin Iffert](https://www.linkedin.com/in/dr-martin-iffert-3270678/), *Expert in Aluminium Decarbonization*
