@@ -15,12 +15,11 @@ On this website you will learn more about what drives me. I write a newsletter a
 
 # Nice Things Others Said About Me
 
-> A year ago in this organisation data issues took days to be detected and more often than not more days to resolve. This time the Data Quality Framework [developed by Denis] automatically detected at 7 AM, automated monitoring made us skip root cause analysis entirely! The dataflow is back within 2 hours after start of business.
+> A year ago data issues took days to be detected and more often than not more days to resolve. This time, the Data Quality Framework [developed by Denis] automatically detected at 7 AM, automated monitoring made us skip root cause analysis entirely! The dataflow is back within 2 hours after start of business.
 
 — [Pascal Dubucq](https://www.linkedin.com/in/dr-pascal-dubucq-01aa99139), *Data Product Owner at RWE Renewables*
 
-— [Cynthia Khan](https://www.linkedin.com/in/khancynthia/), *Data Engineering Services Manager at Novelis*
-
+<br>
 
 > Denis is a very gifted Data Engineer, having the innate understanding of data in the space of manufacturing. I had the opportunity to work with Denis for a year at Novelis and during this brief time he had left an impact within the team.
 
