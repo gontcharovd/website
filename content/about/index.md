@@ -23,7 +23,7 @@ I graduated from a highly quantitative field (Materials and Chemical Engineering
 
 Realizing I needed to be able to wrangle data efficiently to do my job effectively, I started experimenting with the programming language R in combination with SQL. This was in 2018, at the crest of the Data Science hype wave. What started as me doing data visualization and applied statistics, quickly spiraled out of control and became an obsession with Data Science. I enjoyed applying new statistical methods to my internship projects and spending evenings studying up on cutting edge machine learning topics.
 
-I was hired by the company in a Process Engineering job, but soon realized it could never sate my thirst of data work. Therefore, I left the company after two years to pursue a career in data full-time, first at the data consultancy firm called [statworx](https://www.statworx.com/en) and later as an independent data engineer in my own business.
+I was hired by the company in a Process Engineering job but soon realized it could never sate my thirst of data work. Therefore, I left the company after two years to pursue a career in data full-time, first at the data consultancy firm called [statworx](https://www.statworx.com/en) and later as an independent data engineer in my own business.
 
 # How I Got Into Tech Sales
 
