@@ -8,7 +8,7 @@ I had an epiphany today: Databricks can help Sales Managers cut SaaS spend by re
 
 # The Problem
 
-Many enterprises (including us at Databricks!) spend lots of money on third-party SaaS tools (e.g. Sumble, DatabookAI). These solutions are lacking because they don't take into account the company's own data (from their CRM), so the recommendations are not so relevant. Hence me and my colleagues are not really using them (but the company still pays for our seats).
+Many enterprises (including us at Databricks!) spend lots of money on third-party SaaS tools. These solutions are lacking because they don't take into account the company's own data (from their CRM), so the recommendations are not so relevant. Hence me and my colleagues are not really using them (but the company still pays for our seats).
 
 In general, companies are tired of their SaaS sprawl: The average company now runs roughly 300 SaaS apps, wastes $21M a year on licenses it doesn't use, and lets lines of business control 70% of software spend[^1].
 
@@ -44,4 +44,4 @@ I'm currently developing solutions for myself, to improve my performance as a Bu
 
 [^1]: [The Real Cost of SaaS Sprawl in 2026](https://tools8020.com/blog/saas-sprawl-2026/)
 [^2]: Using our AI vibe-coding solution [Genie Code](https://www.databricks.com/product/genie/code).
-[^3] Roughly 70% of Fortune 500 companies.
+[^3]: Roughly 70% of Fortune 500 companies.
