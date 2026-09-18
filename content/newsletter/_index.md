@@ -2,7 +2,7 @@
 title: Newsletter
 subtitle: Tech Sales at Databricks
 description: |
-    I write a newsletter about transitioning from engineering into tech sales at Databricks.
+    I write a newsletter about leveraging data and AI for sales prospecting.
 type: newsletter
 cascade:
   - _target:

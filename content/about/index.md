@@ -12,7 +12,7 @@ After work, I enjoy building solutions on Databricks that improve my sales perfo
 
 Outside of work, my greatest passion are European languages. I'm native in Dutch and Russian and fluent in English, French, and German. I'm no longer a digital nomad, but I still enjoy travel and spend most of my holidays in Central and Eastern Europe.
 
-On this website you will learn more about what drives me. I write a newsletter about using data to improve the performance of our sales teams at Databricks to which you can [subscribe here](https://gontcharov.eu/newsletter/).
+On this website you will learn more about what drives me. I write a newsletter about leveraging data and AI for sales prospecting, to which you can [subscribe here](https://gontcharov.eu/newsletter/).
 
 ![Denis Gontcharov](me.jpg)
 *Databricks Data & AI Summit, San Francisco CA, June 2025*
